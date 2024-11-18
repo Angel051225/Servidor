@@ -1,180 +1,435 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731723020313 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894137190 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723023435 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894152301 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723026508 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894155369 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723029573 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894170467 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723032636 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894173531 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723035691 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894188643 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723038750 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894203743 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723041806 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894206803 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723044866 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894221898 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723047932 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894224956 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723051000 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894240044 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723054068 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894243105 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723057138 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894258195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723060193 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894273282 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723063255 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894276343 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723066327 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894291431 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723069392 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894294486 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723072476 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894309573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723075536 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894312639 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723078598 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894327739 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723081663 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894330794 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723084729 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894345891 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723087785 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894348956 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723090903 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894364045 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723093957 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894367129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723097015 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894382220 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723100077 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894397321 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723103193 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894400383 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723106257 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894403440 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723109316 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894418557 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723112383 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894421614 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723115437 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894436716 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723118495 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894451810 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723121553 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894454868 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723124611 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894469972 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731723127676 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731894473033 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894488136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894491206 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894506289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894521381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894524436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894539541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894554641 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894557700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894572807 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894575872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894590985 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894594044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894609297 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894624602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894627664 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894642772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894657863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894660943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894676032 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894691141 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894694218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894709330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894712403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894693150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731894696207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894711296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+oad latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731894709996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+said-ukraine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
