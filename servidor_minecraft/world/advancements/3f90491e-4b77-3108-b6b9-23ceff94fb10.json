@@ -2686,6 +2686,8 @@
       "betternether:bone_reef": "2024-11-20 04:09:25 +0000",
       "betternether:wart_forest_edge": "2024-12-01 02:54:10 +0000",
       "betternether:magma_land": "2024-12-01 03:15:13 +0000",
+      "betternether:upside_down_forest": "2024-12-01 03:37:10 +0000",
+      "betternether:poor_nether_grasslands": "2024-12-01 03:31:19 +0000",
       "betternether:flooded_deltas": "2024-12-01 03:19:17 +0000",
       "betternether:nether_grasslands": "2024-12-01 02:53:54 +0000",
       "betternether:nether_swampland_terraces": "2024-11-20 03:35:33 +0000",
@@ -3893,6 +3895,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2024-12-01 03:29:18 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/warp_scroll": {
     "criteria": {
       "has_ender_pearl": "2024-12-01 03:13:40 +0000"
@@ -4208,6 +4216,12 @@
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-01 03:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-01 03:32:20 +0000"
     },
     "done": true
   },
