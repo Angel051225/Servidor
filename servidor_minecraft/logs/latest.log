@@ -991,3 +991,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [04:29:09] [Server thread/INFO]: Villager class_1646['Librarian'/17, l='ServerLevel[world]', x=-218.15, y=130.05, z=-14228.62] died, message: 'Librarian tried to swim in lava'
 [04:41:01] [Server thread/INFO]: Set owner for mob farm block entity to class_3222['AlexisQS'/5869, l='ServerLevel[world]', x=-225.29, y=128.00, z=-14213.27]
 [04:44:27] [Server thread/INFO]: Villager class_1646['Toolsmith'/21, l='ServerLevel[world]', x=-216.79, y=147.00, z=-14262.61] died, message: 'Toolsmith was slain by Zombie'
+[05:03:08] [Server thread/INFO]: AlexisQS lost connection: Timed out
+[05:03:08] [Server thread/INFO]: AlexisQS left the game
+[05:03:14] [Server thread/INFO]: AngelP25 lost connection: Timed out
+[05:03:14] [Server thread/INFO]: AngelP25 left the game
+[05:03:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:03:27] [Server thread/INFO]: stop<--[HERE]
+[05:03:30] [Server thread/INFO]: Stopping the server
+[05:03:30] [Server thread/INFO]: Stopping server
+[05:03:30] [Server thread/INFO]: Saving players
+[05:03:30] [Server thread/INFO]: Saving worlds
+[05:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
