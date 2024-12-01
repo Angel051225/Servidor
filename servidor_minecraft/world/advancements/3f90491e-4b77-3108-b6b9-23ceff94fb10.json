@@ -249,7 +249,8 @@
       "potato": "2024-11-18 04:44:13 +0000",
       "cooked_cod": "2024-11-18 02:32:33 +0000",
       "cooked_beef": "2024-11-18 02:24:01 +0000",
-      "baked_potato": "2024-11-23 04:50:28 +0000"
+      "baked_potato": "2024-11-23 04:50:28 +0000",
+      "carrot": "2024-12-01 02:35:42 +0000"
     },
     "done": false
   },
@@ -769,6 +770,7 @@
       "minecraft:skeleton": "2024-11-18 02:27:03 +0000",
       "minecraft:zombified_piglin": "2024-11-20 03:43:50 +0000",
       "minecraft:magma_cube": "2024-11-20 04:24:52 +0000",
+      "minecraft:endermite": "2024-12-01 02:39:51 +0000",
       "minecraft:spider": "2024-11-18 02:24:42 +0000",
       "minecraft:zombie": "2024-11-17 04:03:02 +0000",
       "minecraft:creeper": "2024-11-21 05:00:10 +0000"
@@ -2875,6 +2877,7 @@
   },
   "betternether:nether_wood": {
     "criteria": {
+      "got_nether_reed": "2024-12-01 02:36:18 +0000",
       "got_crimson": "2024-11-20 04:22:31 +0000"
     },
     "done": false
@@ -3878,6 +3881,102 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-11-23 05:33:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_sword": "2024-12-01 02:34:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/nether_ruby_sword": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 02:34:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
     },
     "done": true
   },
