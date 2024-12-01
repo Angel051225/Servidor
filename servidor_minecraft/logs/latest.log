@@ -677,3 +677,16 @@
 [02:13:40] [Server thread/INFO]: AlexisQS lost connection: Timed out
 [02:13:40] [Server thread/INFO]: AlexisQS left the game
 [02:13:40] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:16] [Server thread/INFO]: Jhon_LP[/[0:0:0:0:0:0:0:1%0]:52722] logged in with entity id 3905 at (1668.5, 79.0, -3628.5)
+[02:29:16] [Server thread/INFO]: Jhon_LP joined the game
+[02:33:41] [Server thread/INFO]: AlexisQS[/[0:0:0:0:0:0:0:1%0]:39270] logged in with entity id 5869 at (-205.10103503984402, 135.0, -14225.35511542403)
+[02:33:41] [Server thread/INFO]: AlexisQS joined the game
+[02:34:09] [Server thread/INFO]: Jhon_LP has made the advancement [Red Nether]
+[02:34:20] [Server thread/WARN]: AlexisQS moved too quickly! 9.173045338461463,1.2491870787446828,3.8867788534680585
+[02:34:20] [Server thread/WARN]: Jhon_LP moved too quickly! 8.980090120575852,-1.1661092609382138,-4.714588044414995
+[02:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[02:35:52] [Server thread/INFO]: [Not Secure] <AlexisQS> zzzzzz
+[02:35:53] [Server thread/INFO]: [Not Secure] <AlexisQS> zzzzz
+[02:35:54] [Server thread/INFO]: [Not Secure] <AlexisQS> zzzzzz
+[02:37:11] [Server thread/INFO]: AngelP25 tried to swim in lava
+[02:37:31] [Server thread/INFO]: AngelP25 tried to swim in lava
