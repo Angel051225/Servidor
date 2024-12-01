@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dbc20aeb-98d1-3e0c-a569-5f64909183d0",
+    "name": "AlexisQS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

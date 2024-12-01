@@ -773,6 +773,7 @@
       "minecraft:magma_cube": "2024-11-20 04:24:52 +0000",
       "minecraft:endermite": "2024-12-01 02:39:51 +0000",
       "minecraft:spider": "2024-11-18 02:24:42 +0000",
+      "minecraft:wither_skeleton": "2024-12-01 03:57:41 +0000",
       "minecraft:zombie": "2024-11-17 04:03:02 +0000",
       "minecraft:creeper": "2024-11-21 05:00:10 +0000"
     },
@@ -2685,16 +2686,17 @@
     "criteria": {
       "betternether:bone_reef": "2024-11-20 04:09:25 +0000",
       "betternether:wart_forest_edge": "2024-12-01 02:54:10 +0000",
-      "betternether:magma_land": "2024-12-01 03:15:13 +0000",
-      "betternether:upside_down_forest": "2024-12-01 03:37:10 +0000",
+      "betternether:upside_down_forest_cleared": "2024-12-01 03:56:03 +0000",
       "betternether:poor_nether_grasslands": "2024-12-01 03:31:19 +0000",
       "betternether:flooded_deltas": "2024-12-01 03:19:17 +0000",
       "betternether:nether_grasslands": "2024-12-01 02:53:54 +0000",
+      "betternether:old_swampland": "2024-11-20 03:36:52 +0000",
+      "betternether:nether_swampland": "2024-11-20 04:07:31 +0000",
+      "betternether:magma_land": "2024-12-01 03:15:13 +0000",
+      "betternether:upside_down_forest": "2024-12-01 03:37:10 +0000",
       "betternether:nether_swampland_terraces": "2024-11-20 03:35:33 +0000",
       "betternether:wart_forest": "2024-12-01 02:54:16 +0000",
-      "betternether:old_swampland": "2024-11-20 03:36:52 +0000",
-      "betternether:sulfuric_bone_reef": "2024-12-01 02:53:51 +0000",
-      "betternether:nether_swampland": "2024-11-20 04:07:31 +0000"
+      "betternether:sulfuric_bone_reef": "2024-12-01 02:53:51 +0000"
     },
     "done": false
   },
@@ -2851,13 +2853,15 @@
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "skeleton_camp_crimson": "2024-12-01 03:02:02 +0000",
-      "nether_skeleton_tower_crimson": "2024-11-20 04:08:17 +0000"
+      "nether_skeleton_tower_crimson": "2024-11-20 04:08:17 +0000",
+      "nether_skeleton_tower_warped": "2024-12-01 03:54:57 +0000"
     },
     "done": false
   },
   "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
-      "nova_structures:nether_skeleton_tower_crimson": "2024-11-20 04:08:17 +0000"
+      "nova_structures:nether_skeleton_tower_crimson": "2024-11-20 04:08:17 +0000",
+      "nova_structures:nether_skeleton_tower_warped": "2024-12-01 03:54:57 +0000"
     },
     "done": false
   },
@@ -3985,9 +3989,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
     "criteria": {
       "has_nether_mushroom_stem": "2024-12-01 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
     },
     "done": true
   },
@@ -4027,6 +4043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/basalt_furnace": {
     "criteria": {
       "has_basalt": "2024-12-01 03:26:11 +0000"
@@ -4060,6 +4082,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-01 03:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
     },
     "done": true
   },
@@ -4192,6 +4220,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2024-12-01 03:54:48 +0000"
     },
     "done": true
   },
@@ -4333,9 +4367,27 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
     },
     "done": true
   },
@@ -4348,6 +4400,12 @@
   "betternether:recipes/decorations/netherrack_wall": {
     "criteria": {
       "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_quartz": "2024-12-01 03:39:24 +0000"
     },
     "done": true
   },
