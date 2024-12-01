@@ -1827,6 +1827,7 @@
       "minecraft:skeleton": "2024-11-17 03:34:45 +0000",
       "minecraft:zombified_piglin": "2024-11-20 03:57:55 +0000",
       "minecraft:wither_skeleton": "2024-11-19 03:03:15 +0000",
+      "minecraft:ghast": "2024-12-01 03:08:51 +0000",
       "minecraft:hoglin": "2024-11-30 03:35:31 +0000",
       "minecraft:piglin": "2024-11-20 03:56:22 +0000",
       "minecraft:vindicator": "2024-11-18 03:31:30 +0000",
@@ -6165,9 +6166,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
     },
     "done": true
   },
@@ -6186,6 +6199,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
     },
     "done": true
   },
@@ -6261,6 +6280,12 @@
     },
     "done": true
   },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_pickaxe": "2024-12-01 03:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
@@ -6276,6 +6301,12 @@
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
     },
     "done": true
   },
@@ -6297,9 +6328,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-01 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
     },
     "done": true
   },
@@ -6318,6 +6361,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-01 03:12:35 +0000"
     },
     "done": true
   },

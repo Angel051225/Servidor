@@ -768,6 +768,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-18 04:27:57 +0000",
       "minecraft:skeleton": "2024-11-18 02:27:03 +0000",
+      "minecraft:piglin": "2024-12-01 03:04:58 +0000",
       "minecraft:zombified_piglin": "2024-11-20 03:43:50 +0000",
       "minecraft:magma_cube": "2024-11-20 04:24:52 +0000",
       "minecraft:endermite": "2024-12-01 02:39:51 +0000",
@@ -2684,6 +2685,7 @@
     "criteria": {
       "betternether:bone_reef": "2024-11-20 04:09:25 +0000",
       "betternether:wart_forest_edge": "2024-12-01 02:54:10 +0000",
+      "betternether:magma_land": "2024-12-01 03:15:13 +0000",
       "betternether:nether_grasslands": "2024-12-01 02:53:54 +0000",
       "betternether:nether_swampland_terraces": "2024-11-20 03:35:33 +0000",
       "betternether:wart_forest": "2024-12-01 02:54:16 +0000",
@@ -2883,7 +2885,8 @@
   "betternether:nether_wood": {
     "criteria": {
       "got_nether_reed": "2024-12-01 02:36:18 +0000",
-      "got_crimson": "2024-11-20 04:22:31 +0000"
+      "got_crimson": "2024-11-20 04:22:31 +0000",
+      "got_nether_mushroom": "2024-12-01 03:11:37 +0000"
     },
     "done": false
   },
@@ -3889,9 +3892,39 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-01 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2024-12-01 02:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-01 03:17:28 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/redstone/bone_block_bone_button": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_planks": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2024-12-01 03:11:37 +0000"
     },
     "done": true
   },
@@ -3901,9 +3934,51 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/netherrack_wall_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/netherrack_slab_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_block_bone_plate": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2024-12-01 03:11:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_hanging_sign": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-01 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-01 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
     },
     "done": true
   },
@@ -3937,6 +4012,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_block_bone_stairs": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/sugar": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
@@ -3961,9 +4042,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-01 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_axe": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bone_wall": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
     },
     "done": true
   },
@@ -3979,15 +4078,51 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/netherrack_stairs_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/netherrack_netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/paper": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_block_bone_slab": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_wall_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_slab_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-12-01 03:13:40 +0000"
     },
     "done": true
   },
@@ -4003,9 +4138,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_axe": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2024-12-01 03:13:40 +0000"
     },
     "done": true
   },
@@ -4045,6 +4198,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
   "betternether:ruby_tools": {
     "criteria": {
       "nether_ruby_sword": "2024-12-01 02:34:09 +0000"
@@ -4069,6 +4228,18 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-01 03:13:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:52:56 +0000"
@@ -4087,9 +4258,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_wall": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/nether_ruby_sword": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:34:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2024-12-01 03:05:08 +0000"
     },
     "done": true
   },
@@ -4105,9 +4288,21 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-01 03:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/netherrack_netherrack_stairs": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 03:05:08 +0000"
     },
     "done": true
   },
