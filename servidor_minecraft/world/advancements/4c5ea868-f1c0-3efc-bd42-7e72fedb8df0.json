@@ -6179,6 +6179,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 04:37:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 04:37:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
@@ -6254,6 +6266,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 04:37:01 +0000"
     },
     "done": true
   },

@@ -989,3 +989,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [04:23:50] [Server thread/INFO]: AngelP25 burned to death
 [04:26:34] [Server thread/INFO]: AlexisQS has made the advancement [Harder than Diamond]
 [04:29:09] [Server thread/INFO]: Villager class_1646['Librarian'/17, l='ServerLevel[world]', x=-218.15, y=130.05, z=-14228.62] died, message: 'Librarian tried to swim in lava'
+[04:41:01] [Server thread/INFO]: Set owner for mob farm block entity to class_3222['AlexisQS'/5869, l='ServerLevel[world]', x=-225.29, y=128.00, z=-14213.27]
+[04:44:27] [Server thread/INFO]: Villager class_1646['Toolsmith'/21, l='ServerLevel[world]', x=-216.79, y=147.00, z=-14262.61] died, message: 'Toolsmith was slain by Zombie'
