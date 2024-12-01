@@ -4128,6 +4128,7 @@
       "betternether:bone_reef": "2024-11-19 04:35:30 +0000",
       "betternether:wart_forest_edge": "2024-11-19 03:49:00 +0000",
       "betternether:gravel_desert": "2024-11-19 03:53:27 +0000",
+      "betternether:flooded_deltas": "2024-12-01 03:19:20 +0000",
       "betternether:crimson_pinewood": "2024-11-19 03:16:16 +0000",
       "betternether:nether_grasslands": "2024-11-20 03:36:38 +0000",
       "betternether:old_fungiwoods": "2024-12-01 02:43:14 +0000",
@@ -4542,7 +4543,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-11-19 03:21:55 +0000",
       "minecraft:soul_sand_valley": "2024-11-19 03:42:15 +0000",
-      "minecraft:warped_forest": "2024-11-30 03:32:59 +0000"
+      "minecraft:warped_forest": "2024-11-30 03:32:59 +0000",
+      "minecraft:basalt_deltas": "2024-12-01 03:18:33 +0000"
     },
     "done": false
   },
@@ -6361,6 +6363,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_stalactite_blackstone": {
+    "criteria": {
+      "has_blackstone_stalactite": "2024-12-01 03:22:33 +0000"
     },
     "done": true
   },
