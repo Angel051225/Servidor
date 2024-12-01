@@ -697,3 +697,13 @@
 [02:54:58] [Server thread/INFO]: AngelP25 tried to swim in lava
 [02:56:54] [Server thread/INFO]: Jhon_LP was slain by Zombified Piglin
 [02:57:57] [Server thread/INFO]: AlexisQS has made the advancement [Local Brewery]
+[02:58:25] [Server thread/INFO]: Jhon_LP was slain by Magma Cube
+[02:59:20] [Server thread/INFO]: Jhon_LP burned to death
+[03:04:56] [Server thread/INFO]: AngelP25 was slain by Piglin
+[03:04:56] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:56] [Server thread/ERROR]: Combo count: 1 is dual wielding: false
+[03:04:56] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:56] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:56] [Server thread/ERROR]: Selected slot server: 2 | client: 2
+[03:06:55] [Server thread/INFO]: AngelP25 has made the advancement [Red Nether]
+[03:07:14] [Server thread/INFO]: Jhon_LP fell from a high place

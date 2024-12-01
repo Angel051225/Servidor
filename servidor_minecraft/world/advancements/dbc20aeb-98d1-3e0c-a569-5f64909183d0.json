@@ -4028,6 +4028,7 @@
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "fortress": "2024-11-19 03:48:57 +0000",
+      "skeleton_camp_crimson": "2024-12-01 03:02:05 +0000",
       "nether_skeleton_tower_crimson": "2024-11-19 03:02:24 +0000"
     },
     "done": false
@@ -5399,6 +5400,24 @@
   "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
     "criteria": {
       "has_iron_bars": "2024-11-30 04:17:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-01 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-01 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-01 02:56:05 +0000"
     },
     "done": true
   },

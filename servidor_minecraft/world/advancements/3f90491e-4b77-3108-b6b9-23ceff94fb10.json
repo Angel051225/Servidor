@@ -2683,8 +2683,12 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2024-11-20 04:09:25 +0000",
+      "betternether:wart_forest_edge": "2024-12-01 02:54:10 +0000",
+      "betternether:nether_grasslands": "2024-12-01 02:53:54 +0000",
       "betternether:nether_swampland_terraces": "2024-11-20 03:35:33 +0000",
+      "betternether:wart_forest": "2024-12-01 02:54:16 +0000",
       "betternether:old_swampland": "2024-11-20 03:36:52 +0000",
+      "betternether:sulfuric_bone_reef": "2024-12-01 02:53:51 +0000",
       "betternether:nether_swampland": "2024-11-20 04:07:31 +0000"
     },
     "done": false
@@ -2841,6 +2845,7 @@
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
+      "skeleton_camp_crimson": "2024-12-01 03:02:02 +0000",
       "nether_skeleton_tower_crimson": "2024-11-20 04:08:17 +0000"
     },
     "done": false
@@ -3884,6 +3889,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-01 02:58:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_hoe": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
@@ -4049,6 +4060,12 @@
   "betternether:recipes/building_blocks/nether_reed_planks": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-01 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-01 02:58:03 +0000"
     },
     "done": true
   },

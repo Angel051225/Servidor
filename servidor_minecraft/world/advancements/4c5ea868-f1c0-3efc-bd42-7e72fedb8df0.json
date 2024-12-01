@@ -6159,6 +6159,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-01 03:00:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
@@ -6258,6 +6264,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-01 02:38:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-01 03:00:59 +0000"
     },
     "done": true
   },
