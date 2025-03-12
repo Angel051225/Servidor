@@ -9,7 +9,10 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-03-12 21:45:07 +0000",
       "minecraft:beach": "2025-03-12 21:41:05 +0000",
+      "minecraft:frozen_river": "2025-03-12 22:12:44 +0000",
       "minecraft:forest": "2025-03-12 18:17:50 +0000",
+      "minecraft:taiga": "2025-03-12 21:54:07 +0000",
+      "minecraft:river": "2025-03-12 22:12:39 +0000",
       "minecraft:snowy_plains": "2025-03-12 21:33:35 +0000",
       "minecraft:plains": "2025-03-12 21:40:48 +0000"
     },
@@ -455,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-12 22:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-03-12 21:52:23 +0000"
@@ -488,6 +497,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-12 21:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
     },
     "done": true
   },
@@ -563,6 +578,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-12 21:52:23 +0000"
@@ -599,9 +626,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-12 21:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-12 21:54:15 +0000"
     },
     "done": true
   },
@@ -623,6 +662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-12 21:52:18 +0000"
@@ -632,6 +677,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-03-12 21:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-12 22:10:49 +0000"
     },
     "done": true
   },
@@ -659,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-12 21:52:22 +0000"
@@ -668,6 +725,18 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-12 21:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
     },
     "done": true
   },
@@ -698,6 +767,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-12 21:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-12 22:00:14 +0000"
     },
     "done": true
   },
