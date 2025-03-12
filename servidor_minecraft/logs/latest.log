@@ -1,1010 +1,160 @@
-[02:07:32] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:07:35] [ForkJoinPool-1-worker-4/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
-- Unsupported root entry "credits" at line 12 column 11
-[02:07:35] [ForkJoinPool-1-worker-1/WARN]: Mod tectonic uses the version 2.4.1a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[02:07:37] [main/INFO]: Loading 184 mods:
-	- adventurez 1.4.23
-	- archers 2.1.1+1.21.1
-	   |-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	   |-- ranged_weapon_api 2.0.4+1.21.1
-	   \-- structure_pool_api 1.1.3+1.21.1
-	- architectury 13.0.8
-	- azurelibarmor 2.3.13
-	- balm-fabric 21.0.20
-	   \-- kuma_api 21.0.5-SNAPSHOT
-	- bclib 21.0.13
-	- bettercombat 2.0.3+1.21.1
-	- betterdeserttemples 1.21.1-Fabric-4.1.2
-	   \-- org_reflections_reflections 0.10.2
-	- betterend 21.0.11
-	- betterjungletemples 1.21.1-Fabric-3.1.1
-	   \-- org_reflections_reflections 0.10.2
-	- betternether 21.0.11
-	- bosses_of_mass_destruction 1.10.2-1.21.1
-	   \-- multipart_entities 1.7-1.21
-	- cardinal-components 6.1.1
-	   |-- cardinal-components-base 6.1.1
-	   |-- cardinal-components-block 6.1.1
-	   |-- cardinal-components-chunk 6.1.1
-	   |-- cardinal-components-entity 6.1.1
-	   |-- cardinal-components-item 6.1.1
-	   |-- cardinal-components-level 6.1.1
-	   |-- cardinal-components-scoreboard 6.1.1
-	   \-- cardinal-components-world 6.1.1
-	- carryon 2.2.2
-	- chunkloaders 1.2.8
-	- cloth-config 15.0.140
-	   \-- cloth-basic-math 0.6.1
-	- collective 7.87
-	- combat_roll 2.0.1+1.21.1
-	- coroutil 1.21.0-1.3.7
-	- cristellib 1.2.8
-	   \-- blue_endless_jankson 1.2.3
-	- ctov 3.5.4
-	- dungeon_difficulty 3.0.0+1.21.1
-	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	- dungeons_arise 2.1.60
-	- dungeons_arise_seven_seas 1.0.3
-	- easy_mob_farm 8.5.1
-	- emi 1.1.18+1.21.1+fabric
-	- fabric-api 0.108.0+1.21.1
-	   |-- fabric-api-base 0.4.42+6573ed8c19
-	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
-	   |-- fabric-biome-api-v1 13.0.30+be1ed2d719
-	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
-	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
-	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
-	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
-	   |-- fabric-command-api-v1 1.2.49+f71b366f19
-	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
-	   |-- fabric-commands-v0 0.2.66+df3654b319
-	   |-- fabric-content-registries-v0 8.0.18+b559734419
-	   |-- fabric-convention-tags-v1 2.1.2+7f945d5b19
-	   |-- fabric-convention-tags-v2 2.9.2+e60e56d419
-	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
-	   |-- fabric-data-attachment-api-v1 1.3.0+8e331c5719
-	   |-- fabric-data-generation-api-v1 20.2.23+16c4ae2519
-	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
-	   |-- fabric-entity-events-v1 1.7.0+2122d82819
-	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
-	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
-	   |-- fabric-item-api-v1 11.1.1+d5debaed19
-	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
-	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
-	   |-- fabric-keybindings-v0 0.2.45+df3654b319
-	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
-	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
-	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
-	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
-	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
-	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
-	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
-	   |-- fabric-particles-v1 4.0.2+6573ed8c19
-	   |-- fabric-recipe-api-v1 5.0.13+6508971219
-	   |-- fabric-registry-sync-v0 5.1.3+60c3209b19
-	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
-	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
-	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
-	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
-	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
-	   |-- fabric-rendering-v0 1.1.71+df3654b319
-	   |-- fabric-rendering-v1 5.0.5+df16efd019
-	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
-	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
-	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
-	   |-- fabric-screen-handler-api-v1 1.3.87+b559734419
-	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
-	   |-- fabric-transfer-api-v1 5.4.2+95bead5f19
-	   \-- fabric-transitive-access-wideners-v1 6.1.0+1daea21519
-	- fabric-language-kotlin 1.12.3+kotlin.2.0.21
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.21
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.4
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.4
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+[18:12:28] [main/INFO]: Loading Minecraft 1.20.2 with Fabric Loader 0.16.3
+[18:12:28] [main/INFO]: Loading 51 mods:
+	- cardinal-components 5.3.0
+	   |-- cardinal-components-base 5.3.0
+	   |-- cardinal-components-block 5.3.0
+	   |-- cardinal-components-chunk 5.3.0
+	   |-- cardinal-components-entity 5.3.0
+	   |-- cardinal-components-item 5.3.0
+	   |-- cardinal-components-level 5.3.0
+	   |-- cardinal-components-scoreboard 5.3.0
+	   \-- cardinal-components-world 5.3.0
+	- fabric-api 0.91.6+1.20.2
+	   |-- fabric-api-base 0.4.33+fce67b32a0
+	   |-- fabric-api-lookup-api-v1 1.6.43+b1792f7da0
+	   |-- fabric-biome-api-v1 13.0.14+b1792f7da0
+	   |-- fabric-block-api-v1 1.0.12+73761d2ea0
+	   |-- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	   |-- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
+	   |-- fabric-client-tags-api-v1 1.1.4+86b12645a0
+	   |-- fabric-command-api-v1 1.2.37+f71b366fa0
+	   |-- fabric-command-api-v2 2.2.16+b1792f7da0
+	   |-- fabric-commands-v0 0.2.54+df3654b3a0
+	   |-- fabric-containers-v0 0.1.81+df3654b3a0
+	   |-- fabric-content-registries-v0 5.0.6+b1792f7da0
+	   |-- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	   |-- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	   |-- fabric-data-generation-api-v1 13.1.11+b1792f7da0
+	   |-- fabric-dimensions-v1 2.1.57+b1792f7da0
+	   |-- fabric-entity-events-v1 1.5.26+b1792f7da0
+	   |-- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	   |-- fabric-events-lifecycle-v0 0.2.70+df3654b3a0
+	   |-- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	   |-- fabric-item-api-v1 2.1.33+b1792f7da0
+	   |-- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	   |-- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
+	   |-- fabric-keybindings-v0 0.2.36+df3654b3a0
+	   |-- fabric-lifecycle-events-v1 2.2.28+c8b10480a0
+	   |-- fabric-loot-api-v2 2.1.1+3ba460fba0
+	   |-- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	   |-- fabric-mining-level-api-v1 2.1.56+f4b7e424a0
+	   |-- fabric-model-loading-api-v1 1.0.6+b1792f7da0
+	   |-- fabric-models-v0 0.4.5+9386d8a7a0
+	   |-- fabric-networking-api-v1 3.1.5+f4be560ba0
+	   |-- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	   |-- fabric-particles-v1 1.1.4+f4b7e424a0
+	   |-- fabric-recipe-api-v1 2.0.14+52b3ebe5a0
+	   |-- fabric-registry-sync-v0 4.0.12+b1792f7da0
+	   |-- fabric-renderer-api-v1 3.2.1+2034447ca0
+	   |-- fabric-renderer-indigo 1.5.1+2034447ca0
+	   |-- fabric-renderer-registries-v1 3.2.49+df3654b3a0
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	   |-- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	   |-- fabric-rendering-v0 1.1.52+df3654b3a0
+	   |-- fabric-rendering-v1 3.0.11+b1792f7da0
+	   |-- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
+	   |-- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	   |-- fabric-screen-api-v1 2.0.12+b1792f7da0
+	   |-- fabric-screen-handler-api-v1 1.3.47+b1792f7da0
+	   |-- fabric-sound-api-v1 1.0.14+f4b7e424a0
+	   |-- fabric-transfer-api-v1 3.3.13+4944b5a5a0
+	   \-- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
-	- ferritecore 7.0.2-hotfix
-	- forgeconfigapiport 21.1.2
-	   |-- com_electronwill_night-config_core 3.8.0
-	   \-- com_electronwill_night-config_toml 3.8.0
-	- geckolib 4.7
-	- infinitetrading 4.5
-	- jade 15.8.3+fabric
 	- java 21
-	- jei 19.21.0.247
-	- jewelry 2.0.2+1.21.1
-	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	- journeymap 1.21.1-6.0.0-beta.29
-	   |-- ar_com_hjg_pngj 2.1.0
-	   |-- commonnetworking 1.0.16-1.21.1
-	   \-- journeymap-api-fabric 2.0.0-1.21.1-SNAPSHOT
-	- knightlib 1.1.1
-	- knightquest 1.7.2
-	- lithostitched 1.3.4
-	- mes 1.3.5-1.21-fabric
-	- minecraft 1.21.1
-	- mns 1.0.5-1.21-fabric
-	- mr_dungeons_andtaverns 1-v4.4.4
-	- mr_dungeons_andtavernsancientcityoverhaul 1-v2
-	- mr_dungeons_andtavernsendcastlestandalone 1-v1.1
-	- mr_dungeons_andtavernsnetherfortressoverhaul 1-v2.4
-	- mr_dungeons_andtavernsoceanmonumentreplacement 1-v1.2
-	- mr_dungeons_andtavernspillageroutpostoverhaul 1-v2.2
-	- mr_dungeons_andtavernsstrongholdrework 1-v2.1
-	- mr_dungeons_andtavernsswamphutoverhaul 1-v2
-	- mr_dungeons_andtavernswoodlandmansionreplacement 1-v1.2
-	- mss 1.2.6-1.21-fabric
-	- mvs 4.2.6-1.21-fabric
-	- paladins 2.1.1+1.21.1
-	   |-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	   \-- shield_api 2.0.2+1.21.1
-	- playeranimator 2.0.0-alpha1+1.21
-	- rogues 2.1.0+1.21.1
-	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	- roughlyenoughitems 16.0.788
-	   \-- error_notifier 1.0.11
-	- runes 1.0.3+1.21.1
-	- servercore 1.5.5+1.21.1
-	   |-- fabric-permissions-api-v0 0.3.1
-	   |-- org_yaml_snakeyaml 2.2
-	   |-- placeholder-api 2.4.1+1.21
-	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
-	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
-	- spell_engine 1.1.2+1.21.1
-	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	- spell_power 1.0.5+1.21.1
-	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	- supermartijn642configlib 1.1.8
-	- supermartijn642corelib 1.1.17+c
-	- t_and_t 1.13.2
-	- tectonic 2.4.1a
-	- terralith 2.5.6
-	- toms_storage 2.0.11
-	- trade_cycling 1.21.1-1.0.15
-	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
-	   \-- fabric-screen-api-v1 2.0.24+b55973446a
-	- trinkets 3.10.0
-	- universal-graves 3.4.4+1.21
-	   |-- common-protection-api 1.0.0
-	   |-- placeholder-api 2.4.1+1.21
-	   |-- polymer-core 0.9.14+1.21.1
-	   |    |-- polymer-networking 0.9.14+1.21.1
-	   |    |    \-- polymer-common 0.9.14+1.21.1
-	   |    |         \-- packet_tweaker 0.5.5+1.21
-	   |    \-- polymer-registry-sync-manipulator 0.9.14+1.21.1
-	   |-- polymer-resource-pack 0.9.14+1.21.1
-	   |    \-- polymer-common 0.9.14+1.21.1
-	   |         \-- packet_tweaker 0.5.5+1.21
-	   |-- polymer-virtual-entity 0.9.14+1.21.1
-	   |    \-- polymer-common 0.9.14+1.21.1
-	   |         \-- packet_tweaker 0.5.5+1.21
-	   |-- predicate-api 0.5.1+1.21
-	   |-- server_translations_api 2.3.1+1.21-pre2
-	   \-- sgui 1.6.0+1.21
-	- watut 1.21.0-1.1.3
-	- waystones 21.1.5
-	- wizards 2.1.0+1.21.1
-	   |-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
-	   \-- structure_pool_api 1.1.3+1.21.1
-	- wover 21.0.13
-	   |-- wover-biome 21.0.13
-	   |-- wover-block 21.0.13
-	   |-- wover-common 21.0.13
-	   |-- wover-core 21.0.13
-	   |-- wover-datagen 21.0.13
-	   |-- wover-events 21.0.13
-	   |-- wover-feature 21.0.13
-	   |-- wover-generator 21.0.13
-	   |-- wover-item 21.0.13
-	   |-- wover-math 21.0.13
-	   |-- wover-preset 21.0.13
-	   |-- wover-recipe 21.0.13
-	   |-- wover-structure 21.0.13
-	   |-- wover-surface 21.0.13
-	   |-- wover-tag 21.0.13
-	   \-- wover-ui 21.0.13
-	- wunderlib 21.0.8
-	- yungsapi 1.21.1-Fabric-5.1.2
-	   |-- org_javassist_javassist 3.29.2-GA
-	   \-- org_reflections_reflections 0.10.2
-[02:07:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:07:39] [main/INFO]: Compatibility level set to JAVA_17
-[02:07:39] [main/INFO]: Compatibility level set to JAVA_21
-[02:07:39] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:39] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:39] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:39] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:39] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:39] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:39] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:40] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:07:41] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[02:07:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:07:46] [main/WARN]: Method overwrite conflict for itemStack in spell_engine.mixins.json:ItemStackMixin from mod spell_engine, previously written by net.dungeon_difficulty.mixin.ItemStackMixin. Skipping method.
-[02:07:54] [main/INFO]: fabric loader environment detected
-[02:07:55] [main/INFO]: Reflections took 52 ms to scan 1 urls, producing 1 keys and 2 values
-[02:07:55] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[02:07:56] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[02:07:56] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[02:07:56] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
-[02:07:56] [main/INFO]: Loading Collective version 7.87.
-[02:07:56] [main/INFO]: YAaargh!
-[02:07:56] [main/INFO]: Initializing Easy Mob Farm (Fabric) ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Debug Manager ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Constants ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Configuration ...
-[02:07:56] [main/INFO]: [Config] Updated configuration path to ./config/easy_mob_farm
-[02:07:56] [main/INFO]: [Config] Registering common configuration ...
-[02:07:56] [main/INFO]: [Config]  Mob Farm Configuration
-
- This configuration file allows you to define the general settings for the Mob Farms.
-
- is up to date: {tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=9, tier2progressionUpgradeSpeed=6, tier1progressionUpgradeSpeed=3, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
-[02:07:56] [main/INFO]: [Config]  Mob Capture Card Configuration
-
- This configuration file allows you to define the general settings for the Mob Capture Cards.
-
- is up to date: {mobCaptureCardFishingDropChance=0.15, dropMobCaptureCardOnFishing=true, requirePlayerKill=true, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
-[02:07:56] [main/INFO]: [Config]  Mob Capture Card Rarity Configuration
-
- This configuration file allows you to define the rarity for the Mob Capture Cards.
-
- The format is as follows:
- - <entity_name> = Rarity
-
- Example:
- - minecraft:zombie = COMMON
-
- Supported rarities are:
-  - COMMON
-  - UNCOMMON
-  - RARE
-  - EPIC
-
- is up to date: {minecraft:blaze=RARE, minecraft:pillager=COMMON, minecraft:skeleton=COMMON, minecraft:elder_guardian=EPIC, minecraft:ravager=RARE, minecraft:squid=COMMON, minecraft:ghast=RARE, minecraft:strider=RARE, minecraft:guardian=RARE, minecraft:cow=COMMON, minecraft:vindicator=RARE, minecraft:magma_cube=RARE, minecraft:piglin_brute=EPIC, minecraft:spider=COMMON, minecraft:creeper=COMMON, minecraft:warden=EPIC, minecraft:wither=EPIC, minecraft:horse=COMMON, minecraft:evoker=UNCOMMON, minecraft:slime=UNCOMMON, minecraft:polar_bear=UNCOMMON, minecraft:cat=COMMON, minecraft:bat=COMMON, minecraft:illusioner=EPIC, minecraft:phantom=RARE, minecraft:witch=COMMON, minecraft:wither_skeleton=EPIC, minecraft:fox=UNCOMMON, minecraft:llama=UNCOMMON, minecraft:pig=COMMON, minecraft:husk=UNCOMMON, minecraft:sheep=COMMON, minecraft:ender_dragon=EPIC, minecraft:shulker=RARE, minecraft:cave_spider=UNCOMMON, minecraft:villager=COMMON, minecraft:enderman=UNCOMMON, minecraft:stray=UNCOMMON, minecraft:chicken=COMMON, minecraft:zombie=COMMON, minecraft:drowned=COMMON, minecraft:wolf=COMMON, minecraft:panda=UNCOMMON}
-[02:07:56] [main/INFO]: [Config] Registering server configuration ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Experience Manager ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Experience Manager ModExperienceManager
-[02:07:56] [main/INFO]: Register Easy Mob Farm Blocks ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Farm Template blocks ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Farm blocks ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Blocks Entities ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Farm block entities ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Capture Card items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Enhancement items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Filter items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Slot upgrade items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Farm Templates items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Farms items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Mob Catcher items ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Command register event ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Menu Types ...
-[02:07:56] [main/INFO]: Register Easy Mob Farm Menu Types ...
-[02:07:56] [main/INFO]: Initializing ServerSide Packet Registries
-[02:07:56] [main/ERROR]: No data fixer registered for gremlin
-[02:07:56] [main/ERROR]: No data fixer registered for eldbomb
-[02:07:56] [main/ERROR]: No data fixer registered for eldknight
-[02:07:56] [main/ERROR]: No data fixer registered for samhain
-[02:07:56] [main/ERROR]: No data fixer registered for swampman
-[02:07:56] [main/ERROR]: No data fixer registered for ratman
-[02:07:56] [main/ERROR]: No data fixer registered for lizzy
-[02:07:56] [main/ERROR]: No data fixer registered for bad_patch
-[02:07:56] [main/ERROR]: No data fixer registered for ghastling
-[02:07:56] [main/ERROR]: No data fixer registered for momma_lizzy
-[02:07:56] [main/ERROR]: No data fixer registered for ghosty
-[02:07:56] [main/ERROR]: No data fixer registered for netherman
-[02:07:56] [main/ERROR]: No data fixer registered for netherman_clone
-[02:07:56] [main/ERROR]: No data fixer registered for netherman_teleport_charge
-[02:07:56] [main/ERROR]: No data fixer registered for swampman_axe
-[02:07:56] [main/INFO]: [Knight Quest] The mod 'forgeconfigapiport' was detected, reading config file `knightquest.toml` for Knight Quest.
-[02:07:56] [main/INFO]: Processing wover.datapack.registry Entrypoints
-[02:07:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
-[02:07:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
-[02:07:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
-[02:07:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
-[02:07:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[02:07:57] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[02:07:57] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[02:07:57] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[02:07:57] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[02:07:57] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[02:07:57] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
-[02:07:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[02:07:57] [main/INFO]: [ServerCore] Loaded V1.5.5+1.21.1!
-[02:07:57] [main/INFO]: Shield API initialized!
-[02:07:57] [main/INFO]: Tom's Storage Setup starting
-[02:07:57] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[02:07:57] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[02:07:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:07:58] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
-[02:07:58] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
-[02:07:58] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
-[02:07:58] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
-[02:07:58] [main/INFO]: Running Pre Patchers on ./world/.
-[02:07:58] [main/INFO]: Everything up to date
-[02:08:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (497dbc50)
-[02:08:00] [main/INFO]: Unable to build Biome List yet
-[02:08:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[02:08:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (375d5510)
-[02:08:00] [main/INFO]: Unable to build Biome List yet
-[02:08:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[02:08:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (860ffd6)
-[02:08:00] [main/INFO]: Unable to build Biome List yet
-[02:08:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[02:08:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (39f8adfb)
-[02:08:00] [main/INFO]: Unable to build Biome List yet
-[02:08:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[02:08:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (48c96b64)
-[02:08:00] [main/INFO]: Unable to build Biome List yet
-[02:08:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[02:08:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7cf601fc)
-[02:08:00] [main/INFO]: Unable to build Biome List yet
-[02:08:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:chorus_forest
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dust_wastelands
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
-[02:08:00] [main/INFO]: Adding Small End Island Biome to Fabric: betterend:ice_starfield
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
-[02:08:00] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:00] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[02:08:01] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (5ea24d52)
-[02:08:01] [main/INFO]: Unable to build Biome List yet
-[02:08:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[02:08:01] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1ae50eda)
-[02:08:01] [main/INFO]: Unable to build Biome List yet
-[02:08:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[02:08:01] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/mvs:rare - Failed to parse either. First: Not a valid resource location: #minecraft:enchant_with_levels Non [a-z0-9_.-] character in namespace of location: #minecraft:enchant_with_levels; Second: Not a json array: {"function":"#minecraft:enchant_with_levels","options":"#minecraft:on_random_loot","levels":{"type":"minecraft:uniform","min":20,"max":39},"treasure":true}
-[02:08:01] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[02:08:01] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[02:08:01] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[02:08:01] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[02:08:01] [Worker-Main-1/ERROR]: Unable to building bartering table
-[02:08:01] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[02:08:02] [Worker-Main-1/INFO]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
-[02:08:02] [main/INFO]: Disabling Recipe: bclib:test_star
-[02:08:03] [main/INFO]: Loaded 3367 recipes
-[02:08:03] [main/INFO]: Added 0 recipes in 1ms
-[02:08:03] [main/ERROR]: Parsing error loading custom advancement easy_mob_farm:crafting/mob_farm_template/tier1_mob_farm_template: No key id in MapLike[{"item":"easy_mob_farm:tier1_mob_farm_template"}]
-[02:08:03] [main/ERROR]: Parsing error loading custom advancement easy_mob_farm:crafting/mob_farm_template/tier0_mob_farm_template: No key id in MapLike[{"item":"easy_mob_farm:tier0_mob_farm_template"}]
-[02:08:03] [main/ERROR]: Parsing error loading custom advancement easy_mob_farm:root: No key id in MapLike[{"item":"easy_mob_farm:tier0_mob_farm_template"}]
-[02:08:03] [main/ERROR]: Parsing error loading custom advancement easy_mob_farm:crafting/mob_farm_template/tier2_mob_farm_template: No key id in MapLike[{"item":"easy_mob_farm:tier2_mob_farm_template"}]
-[02:08:03] [main/ERROR]: Parsing error loading custom advancement easy_mob_farm:crafting/mob_farm_template/tier3_mob_farm_template: No key id in MapLike[{"item":"easy_mob_farm:tier3_mob_farm_template"}]
-[02:08:03] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
-[02:08:03] [main/INFO]: Loaded 3108 advancements
-[02:08:03] [main/INFO]: [REI] ----------------------------------------
-[02:08:03] [main/INFO]: [REI] REIPlugin starting main-reload for START.
-[02:08:03] [main/INFO]: [REI] Plugins (3):
-[02:08:03] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[02:08:03] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI] ----------------------------------------
-[02:08:03] [main/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[02:08:03] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
-[02:08:03] [main/INFO]: [REI] Plugins (3):
-[02:08:03] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[02:08:03] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[02:08:03] [main/INFO]: [REI] REIPlugin finished post-reload for START in 1.844 ms, totaling 34.13 ms.
-[02:08:03] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 1.108 ms, totaling 5.656 ms.
-[02:08:03] [main/INFO]: [REI] ****************************************
-[02:08:03] [main/INFO]: [REI] REIPlugin starting main-reload for END.
-[02:08:03] [main/INFO]: [REI] Plugins (3):
-[02:08:03] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[02:08:03] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI] ****************************************
-[02:08:03] [main/INFO]: [REI] ########################################
-[02:08:03] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
-[02:08:03] [main/INFO]: [REI] Plugins (3):
-[02:08:03] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[02:08:03] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[02:08:03] [main/INFO]: [REI] ########################################
-[02:08:03] [main/INFO]: [REI] REIPlugin finished post-reload for END in 3.622 ms, totaling 35.46 ms.
-[02:08:03] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 691.0 μs, totaling 7.557 ms.
-[02:08:03] [ForkJoinPool.commonPool-worker-2/INFO]: Loaded 58 translation keys
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (41f94819)
-[02:08:05] [main/INFO]: Added 11 Biomes
-[02:08:05] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[02:08:05] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6e3cc18a)
-[02:08:05] [main/INFO]: Added 5 Biomes
-[02:08:05] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:05] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[02:08:05] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[02:08:05] [main/INFO]: Added Tags for 1 fabric biomes in 30.82 ms
-[02:08:05] [main/INFO]: Added 6 biomes to wover:is_end/highland in 2.796 ms
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6e3cc18a)
-[02:08:05] [main/INFO]: Added 5 Biomes
-[02:08:05] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:05] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1ae50eda)
-[02:08:05] [main/INFO]: Added 5 Biomes
-[02:08:05] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:05] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1ae50eda)
-[02:08:05] [main/INFO]: Added 5 Biomes
-[02:08:05] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:05] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (41f94819)
-[02:08:05] [main/INFO]: Added 11 Biomes
-[02:08:05] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (5ea24d52)
-[02:08:05] [main/INFO]: Added 11 Biomes
-[02:08:05] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (5ea24d52)
-[02:08:05] [main/INFO]: Added 11 Biomes
-[02:08:05] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (5ea24d52)
-[02:08:05] [main/INFO]: Added 11 Biomes
-[02:08:05] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[02:08:05] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[02:08:05] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1ae50eda)
-[02:08:05] [main/INFO]: Added 5 Biomes
-[02:08:05] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[02:08:05] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[02:08:05] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:05] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[02:08:05] [main/INFO]: Applied 131 biome modifications and added 114 tags to 119 of 205 biomes in 22.74 ms
-[02:08:05] [main/INFO]: Applied 431 biome modifications to 198 of 205 new biomes in 31.54 ms
-[02:08:06] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 83794 bytes (in 9 string chunks with the size of 10000)
-[02:08:06] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 12 string chunks with the size of 10000)
-[02:08:06] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:08:06] [Server thread/INFO]: Loading properties
-[02:08:06] [Server thread/INFO]: Default game type: SURVIVAL
-[02:08:06] [Server thread/INFO]: Generating keypair
-[02:08:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:08:06] [Server thread/INFO]: Using epoll channel type
-[02:08:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:08:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:08:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:08:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:08:06] [Server thread/INFO]: Preparing level "world"
-[02:08:06] [Server thread/INFO]: World Dimensions: 
- - minecraft:overworld: 
-     class_3754 (5f1fd027)
-         preset     = wover:normal
-         noise      = minecraft:overworld
-         features   = terralith(384), minecraft(153), jewelry(1), waystones(3)
-     class_4766 (50867841)
-         biomes     = 147
-         namespaces = minecraft(53), terralith(94)
- - minecraft:the_end: 
-     WoVer - Chunk Generator (3f9adc95)
-         preset     = wover:normal
-         noise      = minecraft:end
-         features   = minecraft(5), betterend(127), waystones(1)
-     WoVer - The End  BiomeSource (1ae50eda)
-         biomes     = 24
-         namespaces = betterend(19), minecraft(5)
-         seed       = 1293476301913599601
-         height     = 128
-         deciders   = 0
-         config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
- - minecraft:the_nether: 
-     WoVer - Chunk Generator (3d5dee90)
-         preset     = wover:normal
-         noise      = minecraft:nether
-         features   = minecraft(37), betternether(95), waystones(1)
-     WoVer - Nether BiomeSource (5ea24d52)
-         biomes     = 27
-         namespaces = minecraft(5), betternether(22)
-         seed       = 1293476301913599601
-         height     = 128
-         config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[02:08:06] [Server thread/INFO]: Merged 19 additional Surface Rules for Dimension minecraft:the_end => 20 (459.2 μs) using WoVer - The End  BiomeSource (1ae50eda)
-    biomes     = 24
-    namespaces = betterend(19), minecraft(5)
-    seed       = 1293476301913599601
-    height     = 128
-    deciders   = 0
-    config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
-[02:08:06] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 74 (946.2 μs) using WoVer - Nether BiomeSource (5ea24d52)
-    biomes     = 27
-    namespaces = minecraft(5), betternether(22)
-    seed       = 1293476301913599601
-    height     = 128
-    config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[02:08:07] [Server thread/INFO]: Added 2 Biomes
-[02:08:07] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:07] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:15] [Server thread/INFO]: Added 2 Biomes
-[02:08:15] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:15] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:19] [Server thread/INFO]: Added 2 Biomes
-[02:08:19] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[02:08:19] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[02:08:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:08:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:08:20] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:08:21] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{Slot:1b}]'
-[02:08:21] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{Slot:3b}]'
-[02:08:21] [Worker-Main-3/INFO]: Preparing spawn area: 22%
-[02:08:22] [Worker-Main-3/INFO]: Preparing spawn area: 100%
-[02:08:22] [Worker-Main-3/INFO]: Preparing spawn area: 100%
-[02:08:22] [Server thread/INFO]: Time elapsed: 2422 ms
-[02:08:22] [Server thread/INFO]: Done (15.960s)! For help, type "help"
-[02:08:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[02:08:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[02:08:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[02:08:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[02:08:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[02:08:22] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[02:08:22] [Server thread/INFO]: Start loading plugin from Tom's Simple Storage Mod: com.tom.storagemod.jade.JadePlugin
-[02:08:22] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[02:08:22] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[02:08:22] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@1742a85d for service interface journeymap.api.services.ClientPlatformService
-[02:08:22] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@3556a2b1 for service interface journeymap.api.services.CommonPlatformService
-[02:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
-[02:10:09] [Server thread/INFO]: AlexisQS[/[0:0:0:0:0:0:0:1%0]:60410] logged in with entity id 82 at (-204.11907161200344, 135.0, -14225.310437742644)
-[02:10:09] [Server thread/INFO]: AlexisQS joined the game
-[02:10:42] [Server thread/INFO]: AngelP25[/[0:0:0:0:0:0:0:1%0]:34992] logged in with entity id 314 at (-205.33346354682772, 135.0, -14229.699999988079)
-[02:10:42] [Server thread/INFO]: AngelP25 joined the game
-[02:13:40] [Server thread/INFO]: AlexisQS lost connection: Timed out
-[02:13:40] [Server thread/INFO]: AlexisQS left the game
-[02:13:40] [Server thread/WARN]: handleDisconnection() called twice
-[02:29:16] [Server thread/INFO]: Jhon_LP[/[0:0:0:0:0:0:0:1%0]:52722] logged in with entity id 3905 at (1668.5, 79.0, -3628.5)
-[02:29:16] [Server thread/INFO]: Jhon_LP joined the game
-[02:33:41] [Server thread/INFO]: AlexisQS[/[0:0:0:0:0:0:0:1%0]:39270] logged in with entity id 5869 at (-205.10103503984402, 135.0, -14225.35511542403)
-[02:33:41] [Server thread/INFO]: AlexisQS joined the game
-[02:34:09] [Server thread/INFO]: Jhon_LP has made the advancement [Red Nether]
-[02:34:20] [Server thread/WARN]: AlexisQS moved too quickly! 9.173045338461463,1.2491870787446828,3.8867788534680585
-[02:34:20] [Server thread/WARN]: Jhon_LP moved too quickly! 8.980090120575852,-1.1661092609382138,-4.714588044414995
-[02:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
-[02:35:52] [Server thread/INFO]: [Not Secure] <AlexisQS> zzzzzz
-[02:35:53] [Server thread/INFO]: [Not Secure] <AlexisQS> zzzzz
-[02:35:54] [Server thread/INFO]: [Not Secure] <AlexisQS> zzzzzz
-[02:37:11] [Server thread/INFO]: AngelP25 tried to swim in lava
-[02:37:31] [Server thread/INFO]: AngelP25 tried to swim in lava
-[02:39:50] [Server thread/INFO]: AlexisQS was burned to a crisp while fighting AngelP25
-[02:39:58] [Server thread/INFO]: Jhon_LP was burned to a crisp while fighting AngelP25
-[02:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
-[02:53:24] [Server thread/INFO]: Jhon_LP tried to swim in lava
-[02:54:58] [Server thread/INFO]: AngelP25 tried to swim in lava
-[02:56:54] [Server thread/INFO]: Jhon_LP was slain by Zombified Piglin
-[02:57:57] [Server thread/INFO]: AlexisQS has made the advancement [Local Brewery]
-[02:58:25] [Server thread/INFO]: Jhon_LP was slain by Magma Cube
-[02:59:20] [Server thread/INFO]: Jhon_LP burned to death
-[03:04:56] [Server thread/INFO]: AngelP25 was slain by Piglin
-[03:04:56] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:56] [Server thread/ERROR]: Combo count: 1 is dual wielding: false
-[03:04:56] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:56] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:56] [Server thread/ERROR]: Selected slot server: 2 | client: 2
-[03:06:55] [Server thread/INFO]: AngelP25 has made the advancement [Red Nether]
-[03:07:14] [Server thread/INFO]: Jhon_LP fell from a high place
-[03:09:06] [Server thread/INFO]: Jhon_LP was doomed to fall by AlexisQS
-[03:19:27] [Server thread/ERROR]: Couldn't load structure mns:houses/large_house_1
-net.minecraft.class_8911: Loading NBT data
-	at net.minecraft.class_2487.method_10581(class_2487.java:530) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2499$1.method_53895(class_2499.java:48) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2499$1.method_23249(class_2499.java:31) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2499$1.method_23262(class_2499.java:26) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487.method_10581(class_2487.java:524) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2507.method_52892(class_2507.java:191) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2507.method_10626(class_2507.java:186) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2507.method_10625(class_2507.java:111) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2507.method_10629(class_2507.java:51) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3485.method_15090(class_3485.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3485.method_44231(class_3485.java:232) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3485.method_15088(class_3485.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3485.method_44245(class_3485.java:114) ~[server-intermediary.jar:?]
-	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
-	at net.minecraft.class_3485.method_15094(class_3485.java:104) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3485.method_15091(class_3485.java:92) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar:?]
-	at net.minecraft.class_3781.method_27233(class_3781.java:94) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3781.method_16628(class_3781.java:134) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3790.<init>(class_3790.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_6624.method_38711(class_6624.java:73) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3449.method_41621(class_3449.java:67) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2852.method_12392(class_2852.java:463) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2852.method_12395(class_2852.java:207) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_43375(class_3898.java:553) ~[server-intermediary.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.io.IOException: Invalid tag id: 39
-	at net.minecraft.class_4614$1.method_39878(class_4614.java:58) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4614$1.method_23264(class_4614.java:63) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4614$1.method_23262(class_4614.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2487.method_10581(class_2487.java:524) ~[server-intermediary.jar:?]
-	... 44 more
-[03:23:17] [Server thread/WARN]: Jhon_LP moved wrongly!
-[03:30:54] [Server thread/WARN]: Jhon_LP moved wrongly!
-[03:31:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5548ms or 110 ticks behind
-[03:37:17] [Worker-Main-1/INFO]: BBox:class_3341{minX=1041, minY=22, minZ=-1887, maxX=1247, maxY=96, maxZ=-1681}
-[03:37:43] [Server thread/INFO]: AngelP25 fell from a high place
-[03:37:44] [Server thread/INFO]: AlexisQS burned to death
-[03:43:33] [Server thread/INFO]: AlexisQS was slain by Piglin Brute
-[03:43:55] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@63bebc1, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:43:55] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@3d62f39, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1755) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:43:55] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@6e70081f, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:43:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@75bb56ad, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1755) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:43:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@4a33f7e, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:43:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@4124e9dc, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1755) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:43:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@67743e69, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-4f6371120bf80f15.jar:?]
-	at net.minecraft.class_3244$1.handler$bci000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:44:19] [Server thread/INFO]: AngelP25 was slain by Zombified Piglin
-[03:48:01] [Server thread/INFO]: Made AlexisQS a server operator
-[03:48:53] [Worker-Main-1/WARN]: Skipping Entity with id betternether:chair
-[03:49:33] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
-[03:54:34] [Server thread/INFO]: AngelP25 was slain by Wither Skeleton
-[03:54:35] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:54:35] [Server thread/ERROR]: Combo count: 0 is dual wielding: false
-[03:54:35] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:54:35] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:54:35] [Server thread/ERROR]: Selected slot server: 2 | client: 2
-[03:55:24] [Server thread/INFO]: AlexisQS was slain by Wither Skeleton
-[03:55:24] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:55:24] [Server thread/ERROR]: Combo count: 7 is dual wielding: false
-[03:55:24] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:55:24] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:55:24] [Server thread/ERROR]: Selected slot server: 0 | client: 0
-[03:55:28] [Server thread/INFO]: AngelP25 was slain by Wither Skeleton
-[03:56:36] [Server thread/INFO]: AlexisQS was shot by Skeleton
-[03:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5867ms or 117 ticks behind
-[03:56:48] [Server thread/WARN]: AngelP25 moved too quickly! 9.830338750623582,-1.0,2.4267467111544647
-[03:57:32] [Server thread/INFO]: AlexisQS was shot by Skeleton
-[03:57:32] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:57:32] [Server thread/ERROR]: Combo count: 5 is dual wielding: false
-[03:57:32] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:57:32] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:57:32] [Server thread/ERROR]: Selected slot server: 0 | client: 0
-[04:00:31] [Server thread/INFO]: AngelP25 tried to swim in lava
-[04:04:40] [Server thread/INFO]: Jhon_LP lost connection: Timed out
-[04:04:40] [Server thread/INFO]: Jhon_LP left the game
-[04:23:50] [Server thread/INFO]: AngelP25 burned to death
-[04:26:34] [Server thread/INFO]: AlexisQS has made the advancement [Harder than Diamond]
-[04:29:09] [Server thread/INFO]: Villager class_1646['Librarian'/17, l='ServerLevel[world]', x=-218.15, y=130.05, z=-14228.62] died, message: 'Librarian tried to swim in lava'
-[04:41:01] [Server thread/INFO]: Set owner for mob farm block entity to class_3222['AlexisQS'/5869, l='ServerLevel[world]', x=-225.29, y=128.00, z=-14213.27]
-[04:44:27] [Server thread/INFO]: Villager class_1646['Toolsmith'/21, l='ServerLevel[world]', x=-216.79, y=147.00, z=-14262.61] died, message: 'Toolsmith was slain by Zombie'
-[05:03:08] [Server thread/INFO]: AlexisQS lost connection: Timed out
-[05:03:08] [Server thread/INFO]: AlexisQS left the game
-[05:03:14] [Server thread/INFO]: AngelP25 lost connection: Timed out
-[05:03:14] [Server thread/INFO]: AngelP25 left the game
-[05:03:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:03:27] [Server thread/INFO]: stop<--[HERE]
-[05:03:30] [Server thread/INFO]: Stopping the server
-[05:03:30] [Server thread/INFO]: Stopping server
-[05:03:30] [Server thread/INFO]: Saving players
-[05:03:30] [Server thread/INFO]: Saving worlds
-[05:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+	- minecraft 1.20.2
+	- wyr 1.0.0
+	   |-- cardinal-components-entity 5.3.0
+	   |-- cardinal-components-level 5.3.0
+	   \-- cardinal-components-world 5.3.0
+[18:12:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:12:28] [main/INFO]: Compatibility level set to JAVA_16
+[18:12:28] [main/INFO]: Compatibility level set to JAVA_17
+[18:12:29] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[18:12:29] [main/WARN]: @Mixin target net.minecraft.class_310 was not found wyr.mixins.json:client.MinecraftClientMixin from mod wyr
+[18:12:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:12:36] [main/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:12:38] [main/INFO]: Loaded 7 recipes
+[18:12:38] [main/INFO]: Loaded 1271 advancements
+[18:12:39] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.509 ms
+[18:12:39] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[18:12:39] [Server thread/INFO]: Loading properties
+[18:12:39] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:39] [Server thread/INFO]: Generating keypair
+[18:12:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:39] [Server thread/INFO]: Using epoll channel type
+[18:12:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:12:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:12:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:12:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:12:39] [Server thread/INFO]: Preparing level "world"
+[18:12:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:12:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:46] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:12:47] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:12:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[18:12:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:12:48] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[18:12:49] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:12:49] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[18:12:50] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[18:12:50] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[18:12:51] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[18:12:51] [Worker-Main-3/INFO]: Preparing spawn area: 12%
+[18:12:52] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[18:12:52] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[18:12:53] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[18:12:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[18:12:54] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[18:12:54] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[18:12:55] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[18:12:55] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[18:12:56] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[18:12:56] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[18:12:57] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[18:12:58] [Worker-Main-1/INFO]: Preparing spawn area: 37%
+[18:12:58] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[18:12:59] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[18:12:59] [Worker-Main-2/INFO]: Preparing spawn area: 43%
+[18:13:00] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[18:13:00] [Worker-Main-1/INFO]: Preparing spawn area: 48%
+[18:13:01] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[18:13:01] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[18:13:02] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[18:13:02] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[18:13:03] [Worker-Main-3/INFO]: Preparing spawn area: 61%
+[18:13:03] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[18:13:04] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[18:13:04] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[18:13:05] [Worker-Main-3/INFO]: Preparing spawn area: 73%
+[18:13:05] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[18:13:06] [Worker-Main-3/INFO]: Preparing spawn area: 80%
+[18:13:06] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[18:13:07] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[18:13:07] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[18:13:08] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[18:13:08] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[18:13:09] [Server thread/INFO]: Time elapsed: 23976 ms
+[18:13:09] [Server thread/INFO]: Done (29.579s)! For help, type "help"
+[18:17:49] [Server thread/INFO]: AlexisQS[/127.218.17.133:49745] logged in with entity id 344 at (-9.5, 76.0, -1.5)
+[18:17:49] [Server thread/INFO]: AlexisQS joined the game
+[18:18:21] [Server thread/INFO]: Made AlexisQS a server operator
+[18:18:37] [Server thread/INFO]: [AlexisQS: commands.choice.get_cooldown.success]
+[18:19:03] [Server thread/INFO]: [AlexisQS: commands.choice.open_screen.success]
+[18:19:18] [Server thread/INFO]: [AlexisQS: commands.choice.clear.success.single]
+[18:19:27] [Server thread/INFO]: AlexisQS lost connection: Disconnected
+[18:19:27] [Server thread/INFO]: AlexisQS left the game
+[18:19:42] [Server thread/INFO]: Stopping the server
+[18:19:43] [Server thread/INFO]: Stopping server
+[18:19:43] [Server thread/INFO]: Saving players
+[18:19:43] [Server thread/INFO]: Saving worlds
+[18:19:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
