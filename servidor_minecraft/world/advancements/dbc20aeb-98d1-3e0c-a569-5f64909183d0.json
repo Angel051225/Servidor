@@ -504,6 +504,7 @@
       "rotten_flesh": "2025-03-18 22:01:05 +0000",
       "cooked_cod": "2025-03-18 22:11:54 +0000",
       "cooked_beef": "2025-03-22 03:21:39 +0000",
+      "baked_potato": "2025-03-22 03:24:29 +0000",
       "poisonous_potato": "2025-03-22 03:05:55 +0000",
       "cooked_salmon": "2025-03-18 21:53:41 +0000",
       "carrot": "2025-03-22 03:07:33 +0000"
@@ -1602,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-22 03:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-03-22 02:28:09 +0000"
@@ -1613,6 +1620,12 @@
       "has_bone_meal": "2025-03-22 02:36:41 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-03-22 03:31:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
@@ -1662,9 +1675,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-22 03:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-03-22 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-22 03:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-22 03:22:07 +0000"
     },
     "done": true
   },
