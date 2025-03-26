@@ -11,6 +11,7 @@
       "minecraft:taiga": "2025-03-22 03:11:09 +0000",
       "minecraft:snowy_plains": "2025-03-18 21:38:34 +0000",
       "minecraft:snowy_taiga": "2025-03-18 21:34:36 +0000",
+      "minecraft:dripstone_caves": "2025-03-26 02:31:23 +0000",
       "minecraft:snowy_beach": "2025-03-22 03:04:37 +0000"
     },
     "done": false
@@ -2028,6 +2029,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-03-22 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-26 02:31:17 +0000"
     },
     "done": true
   },
