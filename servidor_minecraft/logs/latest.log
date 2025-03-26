@@ -1,55 +1,31 @@
-[02:11:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:11:54] [ServerMain/INFO]: Loaded 1337 recipes
-[02:11:54] [ServerMain/INFO]: Loaded 1448 advancements
-[02:11:54] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:11:54] [Server thread/INFO]: Loading properties
-[02:11:54] [Server thread/INFO]: Default game type: SURVIVAL
-[02:11:54] [Server thread/INFO]: Generating keypair
-[02:11:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:11:55] [Server thread/INFO]: Using epoll channel type
-[02:11:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:11:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:11:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:11:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:11:55] [Server thread/INFO]: Preparing level "world"
-[02:11:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:12:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:12:01] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[02:12:01] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[02:12:02] [Server thread/INFO]: Time elapsed: 6613 ms
-[02:12:02] [Server thread/INFO]: Done (7.013s)! For help, type "help"
-[02:12:45] [Server thread/INFO]: AngelP25[/127.21.206.103:58251] logged in with entity id 52 at (8.860128610414998, 70.0, -17.77536626216438)
-[02:12:45] [Server thread/INFO]: AngelP25 joined the game
-[02:16:34] [Server thread/INFO]: AlexisQS[/127.218.17.133:34321] logged in with entity id 1060 at (5.762072132535964, 70.0, -18.828884647601335)
-[02:16:34] [Server thread/INFO]: AlexisQS joined the game
-[02:17:29] [Server thread/INFO]: AngelP25 was slain by Zombie
-[02:25:56] [Server thread/INFO]: AngelP25 hit the ground too hard
-[02:30:54] [Server thread/INFO]: AngelP25 was slain by Zombie
-[02:32:44] [Server thread/INFO]: AngelP25 was blown up by Creeper
-[02:34:40] [Server thread/INFO]: AngelP25 was shot by Skeleton
-[02:36:18] [Server thread/INFO]: AngelP25 was shot by Skeleton
-[02:38:15] [Server thread/INFO]: AngelP25 was shot by Skeleton
-[02:39:56] [Server thread/INFO]: AngelP25 was slain by Zombie Villager
-[02:41:43] [Server thread/INFO]: AngelP25 was shot by Skeleton
-[02:42:08] [Server thread/INFO]: AlexisQS has made the advancement [Sweet Dreams]
-[02:42:19] [Server thread/INFO]: AngelP25 has made the advancement [Sweet Dreams]
-[02:44:49] [Server thread/INFO]: AngelP25 was shot by Skeleton
-[02:58:34] [Server thread/INFO]: AngelP25 was slain by AlexisQS
-[02:59:07] [Server thread/INFO]: AngelP25 was slain by Wolf
-[03:01:16] [Server thread/INFO]: Villager cpj['Villager'/1083, l='ServerLevel[world]', x=-3.21, y=47.15, z=174.72] died, message: 'Villager was slain by Zombie'
-[03:14:57] [Server thread/INFO]: Villager cpj['Fisherman'/18733, l='ServerLevel[world]', x=1.32, y=76.19, z=214.05] died, message: 'Fisherman was slain by Zombie'
-[03:15:38] [Server thread/INFO]: AngelP25 was slain by Spider
-[03:22:05] [Server thread/INFO]: AngelP25 was slain by AlexisQS
-[03:22:15] [Server thread/INFO]: AlexisQS was slain by AngelP25
-[03:31:10] [Server thread/INFO]: AlexisQS has made the advancement [The Parrots and the Bats]
+[01:22:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:22:23] [ServerMain/INFO]: Loaded 1337 recipes
+[01:22:23] [ServerMain/INFO]: Loaded 1448 advancements
+[01:22:23] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:22:23] [Server thread/INFO]: Loading properties
+[01:22:23] [Server thread/INFO]: Default game type: SURVIVAL
+[01:22:23] [Server thread/INFO]: Generating keypair
+[01:22:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:22:23] [Server thread/INFO]: Using epoll channel type
+[01:22:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:22:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:22:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:22:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:22:23] [Server thread/INFO]: Preparing level "world"
+[01:22:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:22:27] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[01:22:27] [Server thread/INFO]: Time elapsed: 3701 ms
+[01:22:27] [Server thread/INFO]: Done (4.128s)! For help, type "help"
+[01:23:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:27:29] [Server thread/INFO]: AngelP25[/127.21.206.103:51985] logged in with entity id 35 at (7.749470646934057, 70.0, -14.05437119433292)
+[01:27:29] [Server thread/INFO]: AngelP25 joined the game
+[01:31:10] [Server thread/INFO]: AngelP25 was slain by Zombie
+[01:31:55] [Server thread/INFO]: AlexisQS[/127.218.17.133:48219] logged in with entity id 1414 at (6.58214228521726, 70.0, -12.864624096087656)
+[01:31:55] [Server thread/INFO]: AlexisQS joined the game
