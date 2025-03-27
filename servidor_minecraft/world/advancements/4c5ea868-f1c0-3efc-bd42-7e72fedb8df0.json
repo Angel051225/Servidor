@@ -7,9 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_ocean": "2025-03-27 21:49:54 +0000",
       "minecraft:frozen_river": "2025-03-18 21:35:27 +0000",
       "minecraft:taiga": "2025-03-22 03:11:09 +0000",
+      "minecraft:grove": "2025-03-27 21:51:33 +0000",
       "minecraft:snowy_plains": "2025-03-18 21:38:34 +0000",
+      "minecraft:stony_shore": "2025-03-27 21:52:53 +0000",
       "minecraft:snowy_taiga": "2025-03-18 21:34:36 +0000",
       "minecraft:dripstone_caves": "2025-03-26 02:31:23 +0000",
       "minecraft:snowy_beach": "2025-03-22 03:04:37 +0000"
@@ -2171,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-27 21:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-27 21:15:22 +0000"
@@ -2180,6 +2189,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-27 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-27 21:51:26 +0000"
     },
     "done": true
   },
