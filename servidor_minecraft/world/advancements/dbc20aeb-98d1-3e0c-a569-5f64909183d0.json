@@ -7,12 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_river": "2025-03-18 21:36:37 +0000",
+      "minecraft:snowy_slopes": "2025-03-29 02:56:41 +0000",
       "minecraft:forest": "2025-03-27 21:45:25 +0000",
       "minecraft:taiga": "2025-03-27 21:45:53 +0000",
       "minecraft:snowy_plains": "2025-03-18 22:03:27 +0000",
+      "minecraft:stony_shore": "2025-03-29 02:56:16 +0000",
       "minecraft:snowy_taiga": "2025-03-18 21:31:45 +0000",
-      "minecraft:dripstone_caves": "2025-03-29 01:56:24 +0000"
+      "minecraft:dripstone_caves": "2025-03-29 01:56:24 +0000",
+      "minecraft:frozen_peaks": "2025-03-29 02:50:32 +0000",
+      "minecraft:frozen_ocean": "2025-03-29 02:41:14 +0000",
+      "minecraft:frozen_river": "2025-03-18 21:36:37 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-29 02:59:04 +0000",
+      "minecraft:grove": "2025-03-29 02:42:41 +0000",
+      "minecraft:snowy_beach": "2025-03-29 02:41:09 +0000"
     },
     "done": false
   },
@@ -1538,7 +1545,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:ashen": "2025-03-18 23:49:20 +0000"
+      "minecraft:ashen": "2025-03-18 23:49:20 +0000",
+      "minecraft:snowy": "2025-03-29 02:54:48 +0000"
     },
     "done": false
   },

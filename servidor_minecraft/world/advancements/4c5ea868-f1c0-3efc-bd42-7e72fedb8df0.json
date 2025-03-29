@@ -7,17 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-03-29 01:45:23 +0000",
-      "minecraft:frozen_ocean": "2025-03-27 21:49:54 +0000",
+      "minecraft:snowy_slopes": "2025-03-29 02:56:53 +0000",
       "minecraft:mushroom_fields": "2025-03-29 01:48:27 +0000",
-      "minecraft:frozen_river": "2025-03-18 21:35:27 +0000",
       "minecraft:taiga": "2025-03-22 03:11:09 +0000",
-      "minecraft:deep_frozen_ocean": "2025-03-29 01:43:07 +0000",
-      "minecraft:grove": "2025-03-27 21:51:33 +0000",
       "minecraft:snowy_plains": "2025-03-18 21:38:34 +0000",
       "minecraft:stony_shore": "2025-03-27 21:52:53 +0000",
       "minecraft:snowy_taiga": "2025-03-18 21:34:36 +0000",
       "minecraft:dripstone_caves": "2025-03-26 02:31:23 +0000",
+      "minecraft:frozen_peaks": "2025-03-29 02:50:25 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-29 01:45:23 +0000",
+      "minecraft:frozen_ocean": "2025-03-27 21:49:54 +0000",
+      "minecraft:frozen_river": "2025-03-18 21:35:27 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-29 01:43:07 +0000",
+      "minecraft:grove": "2025-03-27 21:51:33 +0000",
       "minecraft:snowy_beach": "2025-03-22 03:04:37 +0000"
     },
     "done": false
@@ -2265,6 +2267,30 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-29 01:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-03-29 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-29 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-29 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-29 02:50:43 +0000"
     },
     "done": true
   },
