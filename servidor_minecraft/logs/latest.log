@@ -1,69 +1,137 @@
-[01:25:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:25:04] [ServerMain/INFO]: Loaded 1337 recipes
-[01:25:04] [ServerMain/INFO]: Loaded 1448 advancements
-[01:25:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:25:04] [Server thread/INFO]: Loading properties
-[01:25:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:25:04] [Server thread/INFO]: Generating keypair
-[01:25:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:25:05] [Server thread/INFO]: Using epoll channel type
-[01:25:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:25:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:25:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:25:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:25:05] [Server thread/INFO]: Preparing level "world"
-[01:25:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:10] [Server thread/INFO]: Time elapsed: 4995 ms
-[01:25:10] [Server thread/INFO]: Done (5.326s)! For help, type "help"
-[01:25:36] [Server thread/INFO]: AngelP25[/127.21.206.103:43225] logged in with entity id 47 at (161.7948384998649, 70.0, 1713.0394841874897)
-[01:25:36] [Server thread/INFO]: AngelP25 joined the game
-[01:28:40] [Server thread/INFO]: AlexisQS[/127.218.17.133:41583] logged in with entity id 895 at (7.217149599617568, 70.0, -16.153648598879514)
-[01:28:40] [Server thread/INFO]: AlexisQS joined the game
-[01:29:31] [Server thread/INFO]: [Not Secure] <AlexisQS> 6 -14
-[01:52:39] [Server thread/INFO]: [Not Secure] <AlexisQS> 6, -14
-[01:52:57] [Server thread/INFO]: [Not Secure] <AlexisQS> 6, -14
-[02:04:50] [Server thread/INFO]: AngelP25 lost connection: Disconnected
-[02:04:50] [Server thread/INFO]: AngelP25 left the game
-[02:09:31] [Server thread/INFO]: [AlexisQS: Applied 1.0 damage to AlexisQS]
-[02:13:05] [Server thread/INFO]: [AlexisQS: Rotated AlexisQS]
-[02:13:12] [Server thread/INFO]: [AlexisQS: Rotated AlexisQS]
-[02:13:14] [Server thread/INFO]: [AlexisQS: Rotated AlexisQS]
-[02:13:15] [Server thread/INFO]: [AlexisQS: Rotated AlexisQS]
-[02:14:52] [Server thread/INFO]: [AlexisQS: Summoned new Arrow]
-[02:15:12] [Server thread/INFO]: [AlexisQS: Made AngelP25 no longer a server operator]
-[02:15:56] [Server thread/INFO]: [AlexisQS: Summoned new Lightning Bolt]
-[02:19:10] [Server thread/INFO]: [AlexisQS: Summoned new Rabbit]
-[02:34:16] [Server thread/INFO]: AngelP25[/127.21.206.103:46875] logged in with entity id 25351 at (47.69999998807907, 81.0, 2799.597397166697)
-[02:34:16] [Server thread/INFO]: AngelP25 joined the game
-[02:34:57] [Server thread/INFO]: [AlexisQS: Summoned new Creeper]
-[02:35:00] [Server thread/INFO]: AngelP25 was blown up by Creeper
-[02:35:54] [Server thread/INFO]: [Not Secure] <AlexisQS> 47, 2799
-[02:43:47] [Server thread/INFO]: AngelP25 lost connection: Timed out
-[02:43:47] [Server thread/INFO]: AngelP25 left the game
-[02:43:47] [Server thread/WARN]: handleDisconnection() called twice
-[02:49:06] [Server thread/INFO]: AngelP25[/127.21.206.103:38375] logged in with entity id 29934 at (49.81145956083848, 90.0, 1474.6551689634293)
-[02:49:06] [Server thread/INFO]: AngelP25 joined the game
-[03:04:23] [Server thread/INFO]: [AlexisQS: Set own game mode to Spectator Mode]
-[03:05:46] [Server thread/INFO]: [AlexisQS: Teleported AlexisQS to AngelP25]
-[03:06:01] [Server thread/INFO]: AngelP25 was slain by Zombie
-[03:06:08] [Server thread/INFO]: [AlexisQS: Teleported AlexisQS to 47.500000, 75.192294, 2799.500000]
-[03:06:49] [Server thread/INFO]: [AlexisQS: Teleported AlexisQS to 47.500000, 90.000000, 2799.500000]
-[03:07:59] [Server thread/INFO]: [AlexisQS: Teleported AlexisQS to 47.500000, 81.000000, 2799.500000]
-[03:09:28] [Server thread/INFO]: [AlexisQS: Set own game mode to Survival Mode]
-[03:09:55] [Server thread/INFO]: [AlexisQS: Teleported 55 entities to AlexisQS]
-[03:13:33] [Server thread/INFO]: [Not Secure] <AlexisQS> 6 -14
-[03:24:32] [Server thread/INFO]: AngelP25 was shot by Stray
-[03:24:52] [Server thread/INFO]: AlexisQS lost connection: Disconnected
-[03:24:52] [Server thread/INFO]: AlexisQS left the game
-[03:25:00] [Server thread/INFO]: AlexisQS[/127.218.17.133:33483] logged in with entity id 46122 at (180.84136163409315, 63.0, 850.7114813513692)
-[03:25:00] [Server thread/INFO]: AlexisQS joined the game
+[02:33:52] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[02:33:52] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[02:33:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:34:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:34:03] [main/INFO]: Loaded 7 recipes
+[02:34:03] [main/INFO]: Loaded 1271 advancements
+[02:34:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:34:04] [Server thread/INFO]: Loading properties
+[02:34:04] [Server thread/INFO]: Default game type: SURVIVAL
+[02:34:04] [Server thread/INFO]: Generating keypair
+[02:34:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:34:04] [Server thread/INFO]: Using epoll channel type
+[02:34:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:34:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:34:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:34:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:34:04] [Server thread/INFO]: Preparing level "world"
+[02:34:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:56] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[02:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[02:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[02:35:00] [Server thread/INFO]: Time elapsed: 45246 ms
+[02:35:00] [Server thread/INFO]: Done (56.092s)! For help, type "help"
+[02:37:09] [Server thread/INFO]: AlexisQS[/127.240.16.218:43283] logged in with entity id 158 at (-23.5, 71.0, 58.5)
+[02:37:09] [Server thread/INFO]: AlexisQS joined the game
+[02:37:57] [Server thread/INFO]: AngelP25[/127.137.168.234:57461] logged in with entity id 561 at (-35.5, 71.0, 56.5)
+[02:37:57] [Server thread/INFO]: AngelP25 joined the game
+[02:38:37] [Server thread/INFO]: AngelP25 was slain by AlexisQS
+[02:38:57] [Server thread/INFO]: AlexisQS was slain by AngelP25
+[02:39:00] [Server thread/INFO]: AngelP25 has made the advancement [Acquire Hardware]
+[02:40:36] [Server thread/INFO]: AlexisQS has made the advancement [Stone Age]
+[02:41:00] [Server thread/INFO]: AlexisQS has made the advancement [Getting an Upgrade]
+[02:42:08] [Server thread/INFO]: AngelP25 has made the advancement [Isn't It Iron Pick]
+[02:43:46] [Server thread/INFO]: Made AlexisQS a server operator
+[02:43:54] [Server thread/INFO]: [AlexisQS: The difficulty has been set to Hard]
+[02:44:54] [Server thread/INFO]: AngelP25 has made the advancement [Local Brewery]
+[02:45:05] [Server thread/INFO]: [AlexisQS: Set own game mode to Creative Mode]
+[02:45:06] [Server thread/INFO]: [AlexisQS: Set own game mode to Survival Mode]
+[02:46:14] [Server thread/INFO]: AlexisQS has made the advancement [Sweet Dreams]
+[02:46:18] [Server thread/INFO]: AngelP25 has made the advancement [Sweet Dreams]
+[02:46:22] [Server thread/INFO]: AngelP25 lost connection: Disconnected
+[02:46:22] [Server thread/INFO]: AngelP25 left the game
+[02:46:36] [Server thread/INFO]: AngelP25[/127.137.168.234:47489] logged in with entity id 3001 at (-204.5, 81.0625, 310.5)
+[02:46:36] [Server thread/INFO]: AngelP25 joined the game
+[02:47:12] [Server thread/INFO]: AngelP25 has made the advancement [Monster Hunter]
+[02:58:48] [Server thread/INFO]: Villager class_1646['Villager'/6550, l='ServerLevel[world]', x=194.63, y=98.56, z=804.28] died, message: 'Villager suffocated in a wall'
+[02:58:50] [Server thread/INFO]: AngelP25 was blown up by Creeper
+[02:59:00] [Server thread/INFO]: AlexisQS has made the advancement [Acquire Hardware]
+[02:59:11] [Server thread/INFO]: Villager class_1646['Villager'/6695, l='ServerLevel[world]', x=259.28, y=109.50, z=818.37] died, message: 'Villager suffocated in a wall'
+[02:59:28] [Server thread/INFO]: Villager class_1646['Villager'/6549, l='ServerLevel[world]', x=201.15, y=94.28, z=807.50] died, message: 'Villager froze to death'
+[03:01:02] [Server thread/INFO]: [Not Secure] <AlexisQS> 195.50 103.00 780.50 16.20 36.90
+[03:01:18] [Server thread/INFO]: [Not Secure] <AlexisQS> 195.50 103.00 780.50
