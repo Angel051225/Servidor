@@ -13,9 +13,12 @@
       "minecraft:snowy_plains": "2025-07-16 02:37:58 +0000",
       "minecraft:stony_shore": "2025-07-16 02:48:45 +0000",
       "minecraft:snowy_taiga": "2025-07-16 02:43:19 +0000",
+      "minecraft:dripstone_caves": "2025-07-16 03:31:12 +0000",
       "minecraft:grove": "2025-07-16 02:57:02 +0000",
+      "minecraft:forest": "2025-07-16 03:35:20 +0000",
       "minecraft:lush_caves": "2025-07-16 03:04:21 +0000",
-      "minecraft:snowy_beach": "2025-07-16 02:38:47 +0000"
+      "minecraft:snowy_beach": "2025-07-16 02:38:47 +0000",
+      "minecraft:meadow": "2025-07-16 03:35:09 +0000"
     },
     "done": false
   },
@@ -481,21 +484,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_cobblestone": "2025-07-16 03:14:10 +0000"
+      "minecraft:zombie": "2025-07-16 02:47:12 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_leather": "2025-07-16 03:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-07-16 03:14:37 +0000"
+      "minecraft:zombie": "2025-07-16 02:47:12 +0000"
     },
     "done": true
   },
@@ -505,69 +502,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-07-16 03:14:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-16 03:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-16 03:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-07-16 02:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-07-16 03:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-07-16 03:14:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-07-16 03:14:15 +0000"
     },
     "done": true
   },
@@ -577,21 +514,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "get_stone": "2025-07-16 03:14:10 +0000"
+      "has_feather": "2025-07-16 02:52:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-07-16 03:14:37 +0000"
+      "has_potato": "2025-07-16 03:11:01 +0000"
     },
     "done": true
   },
@@ -607,39 +538,63 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-07-16 03:14:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-07-16 03:14:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-07-16 02:52:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-07-16 03:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-07-16 03:14:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-16 03:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-16 03:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-16 03:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-16 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-16 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-16 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-16 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-16 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-16 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-16 03:14:10 +0000"
     },
     "done": true
   },
@@ -655,39 +610,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-07-16 02:47:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-16 03:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-16 03:14:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-07-16 02:47:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-07-16 03:14:37 +0000"
     },
     "done": true
   },
@@ -703,45 +628,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-07-16 03:14:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-07-16 03:14:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-16 03:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-07-16 03:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-07-16 03:14:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-16 03:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-07-16 03:14:15 +0000"
     },
     "done": true
   },
@@ -754,6 +649,138 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-16 03:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-16 03:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 03:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-16 03:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 03:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-16 03:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-16 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-16 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-16 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-16 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-16 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-16 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-16 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-16 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-16 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-16 03:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 03:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 03:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 03:33:46 +0000"
     },
     "done": true
   },
