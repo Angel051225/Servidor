@@ -11,8 +11,10 @@
       "minecraft:old_growth_pine_taiga": "2025-07-16 20:29:36 +0000",
       "minecraft:taiga": "2025-07-16 02:48:29 +0000",
       "minecraft:deep_ocean": "2025-07-16 20:40:00 +0000",
+      "minecraft:eroded_badlands": "2025-07-17 04:18:11 +0000",
       "minecraft:frozen_river": "2025-07-16 02:43:14 +0000",
       "minecraft:windswept_hills": "2025-07-16 03:53:14 +0000",
+      "minecraft:badlands": "2025-07-17 04:18:02 +0000",
       "minecraft:beach": "2025-07-16 03:40:45 +0000",
       "minecraft:sparse_jungle": "2025-07-17 03:58:12 +0000",
       "minecraft:river": "2025-07-16 03:40:36 +0000",
@@ -25,12 +27,16 @@
       "minecraft:cold_ocean": "2025-07-16 20:26:03 +0000",
       "minecraft:forest": "2025-07-16 03:35:20 +0000",
       "minecraft:lush_caves": "2025-07-16 03:04:21 +0000",
+      "minecraft:desert": "2025-07-17 04:18:45 +0000",
       "minecraft:ocean": "2025-07-16 20:38:46 +0000",
+      "minecraft:jungle": "2025-07-17 04:32:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-16 20:28:26 +0000",
       "minecraft:snowy_beach": "2025-07-16 02:38:47 +0000",
+      "minecraft:warm_ocean": "2025-07-17 04:18:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-16 20:31:38 +0000",
       "minecraft:meadow": "2025-07-16 03:35:09 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-16 03:53:44 +0000",
+      "minecraft:savanna": "2025-07-17 04:06:47 +0000",
       "minecraft:plains": "2025-07-16 03:54:17 +0000"
     },
     "done": false
@@ -503,6 +509,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-16 04:25:07 +0000",
+      "minecraft:spider": "2025-07-17 04:06:16 +0000",
+      "minecraft:witch": "2025-07-17 04:04:31 +0000",
       "minecraft:zombie": "2025-07-16 02:47:12 +0000",
       "minecraft:drowned": "2025-07-16 20:34:38 +0000"
     },
@@ -1606,18 +1614,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-07-17 03:59:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-07-17 03:59:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-17 03:57:38 +0000"
@@ -1651,6 +1647,132 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-17 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-17 04:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 04:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-17 04:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-17 04:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-17 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-17 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-17 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-17 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-17 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-17 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-17 04:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-17 04:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-17 04:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-17 04:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-17 04:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-17 04:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 04:32:58 +0000"
     },
     "done": true
   },
