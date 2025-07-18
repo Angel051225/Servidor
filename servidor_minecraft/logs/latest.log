@@ -52,3 +52,20 @@
 [15:22:01] [Server thread/INFO]: AngelP25 left the game
 [15:22:06] [Server thread/INFO]: AngelP25[/127.137.168.234:56931] logged in with entity id 1178 at (1242.300000011921, 109.0, -7632.100172667335)
 [15:22:06] [Server thread/INFO]: AngelP25 joined the game
+[15:33:57] [Server thread/INFO]: AngelP25 was shot by Skeleton
+[15:34:59] [Server thread/INFO]: AngelP25 was blown up by Creeper
+[15:35:12] [Server thread/INFO]: AlexisQS lost connection: Disconnected
+[15:35:12] [Server thread/INFO]: AlexisQS left the game
+[15:35:28] [Server thread/INFO]: AlexisQS[/127.240.16.218:53751] logged in with entity id 4482 at (1513.4555528495514, 79.0, -8153.535087830207)
+[15:35:28] [Server thread/INFO]: AlexisQS joined the game
+[15:35:58] [Server thread/INFO]: AlexisQS lost connection: Disconnected
+[15:35:58] [Server thread/INFO]: AlexisQS left the game
+[15:36:03] [Server thread/INFO]: AlexisQS[/127.240.16.218:39165] logged in with entity id 4822 at (1513.4555528495514, 79.0, -8153.535087830207)
+[15:36:03] [Server thread/INFO]: AlexisQS joined the game
+[15:41:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1720, y=64, z=-8393} class_2338{x=1722, y=62, z=-8392}
+[15:43:44] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.28074788483354496
+[15:43:44] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.45190000052389223
+[15:43:44] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.63193899954058
+[15:43:45] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.7880048676943261
+[15:43:45] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.92639960041015
+[15:56:36] [Server thread/INFO]: Villager class_1646['Villager'/11646, l='ServerLevel[world]', x=1869.38, y=79.00, z=-10089.49] died, message: 'Villager was slain by AngelP25'
