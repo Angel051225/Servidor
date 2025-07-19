@@ -18,6 +18,7 @@
       "minecraft:birch_forest": "2025-07-18 15:45:58 +0000",
       "minecraft:windswept_hills": "2025-07-16 03:53:34 +0000",
       "minecraft:wooded_badlands": "2025-07-17 04:30:20 +0000",
+      "minecraft:bamboo_jungle": "2025-07-19 19:54:34 +0000",
       "minecraft:badlands": "2025-07-17 04:18:02 +0000",
       "minecraft:beach": "2025-07-16 03:43:38 +0000",
       "minecraft:dark_forest": "2025-07-18 16:09:12 +0000",
@@ -31,6 +32,7 @@
       "minecraft:swamp": "2025-07-16 04:08:46 +0000",
       "minecraft:cold_ocean": "2025-07-16 20:26:03 +0000",
       "minecraft:forest": "2025-07-16 03:31:57 +0000",
+      "minecraft:lush_caves": "2025-07-19 19:51:14 +0000",
       "minecraft:desert": "2025-07-17 04:18:45 +0000",
       "minecraft:ocean": "2025-07-16 20:38:44 +0000",
       "minecraft:jungle": "2025-07-17 04:44:31 +0000",
@@ -1586,6 +1588,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-18 15:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 15:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-18 16:11:00 +0000"
@@ -1610,12 +1624,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-07-18 15:49:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-18 16:11:00 +0000"
@@ -1625,12 +1633,6 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-07-18 16:11:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-07-18 15:49:44 +0000"
     },
     "done": true
   },
@@ -1649,6 +1651,24 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-18 16:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-19 19:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-19 19:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-19 19:45:59 +0000"
     },
     "done": true
   },

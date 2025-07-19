@@ -1,71 +1,50 @@
-[15:11:21] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[15:11:21] [main/INFO]: Loading 4 mods:
+[19:42:24] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[19:42:24] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.20.1
-[15:11:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:11:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:11:33] [main/INFO]: Loaded 7 recipes
-[15:11:33] [main/INFO]: Loaded 1271 advancements
-[15:11:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[15:11:34] [Server thread/INFO]: Loading properties
-[15:11:34] [Server thread/INFO]: Default game type: SURVIVAL
-[15:11:34] [Server thread/INFO]: Generating keypair
-[15:11:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:11:34] [Server thread/INFO]: Using epoll channel type
-[15:11:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:11:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:11:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:11:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:11:34] [Server thread/INFO]: Preparing level "world"
-[15:11:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:11:49] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[15:11:50] [Server thread/INFO]: Time elapsed: 9234 ms
-[15:11:50] [Server thread/INFO]: Done (15.099s)! For help, type "help"
-[15:13:13] [Server thread/INFO]: AngelP25[/127.137.168.234:54833] logged in with entity id 40 at (1241.3916340700118, 108.0, -7632.475974325532)
-[15:13:13] [Server thread/INFO]: AngelP25 joined the game
-[15:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
-[15:13:52] [Server thread/INFO]: AlexisQS[/127.240.16.218:39461] logged in with entity id 336 at (1242.4585652087208, 108.0, -7634.699999988079)
-[15:13:52] [Server thread/INFO]: AlexisQS joined the game
-[15:15:21] [Server thread/INFO]: AlexisQS was doomed to fall by AngelP25
-[15:16:30] [Server thread/INFO]: AlexisQS hit the ground too hard whilst trying to escape Skeleton
-[15:22:01] [Server thread/INFO]: AngelP25 lost connection: Disconnected
-[15:22:01] [Server thread/INFO]: AngelP25 left the game
-[15:22:06] [Server thread/INFO]: AngelP25[/127.137.168.234:56931] logged in with entity id 1178 at (1242.300000011921, 109.0, -7632.100172667335)
-[15:22:06] [Server thread/INFO]: AngelP25 joined the game
-[15:33:57] [Server thread/INFO]: AngelP25 was shot by Skeleton
-[15:34:59] [Server thread/INFO]: AngelP25 was blown up by Creeper
-[15:35:12] [Server thread/INFO]: AlexisQS lost connection: Disconnected
-[15:35:12] [Server thread/INFO]: AlexisQS left the game
-[15:35:28] [Server thread/INFO]: AlexisQS[/127.240.16.218:53751] logged in with entity id 4482 at (1513.4555528495514, 79.0, -8153.535087830207)
-[15:35:28] [Server thread/INFO]: AlexisQS joined the game
-[15:35:58] [Server thread/INFO]: AlexisQS lost connection: Disconnected
-[15:35:58] [Server thread/INFO]: AlexisQS left the game
-[15:36:03] [Server thread/INFO]: AlexisQS[/127.240.16.218:39165] logged in with entity id 4822 at (1513.4555528495514, 79.0, -8153.535087830207)
-[15:36:03] [Server thread/INFO]: AlexisQS joined the game
-[15:41:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1720, y=64, z=-8393} class_2338{x=1722, y=62, z=-8392}
-[15:43:44] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.28074788483354496
-[15:43:44] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.45190000052389223
-[15:43:44] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.63193899954058
-[15:43:45] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.7880048676943261
-[15:43:45] [Server thread/WARN]: Boat (vehicle of AlexisQS) moved wrongly! 0.92639960041015
-[15:56:36] [Server thread/INFO]: Villager class_1646['Villager'/11646, l='ServerLevel[world]', x=1869.38, y=79.00, z=-10089.49] died, message: 'Villager was slain by AngelP25'
+[19:42:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:42:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:42:36] [main/INFO]: Loaded 7 recipes
+[19:42:36] [main/INFO]: Loaded 1271 advancements
+[19:42:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:42:37] [Server thread/INFO]: Loading properties
+[19:42:37] [Server thread/INFO]: Default game type: SURVIVAL
+[19:42:37] [Server thread/INFO]: Generating keypair
+[19:42:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:42:38] [Server thread/INFO]: Using epoll channel type
+[19:42:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:42:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:42:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:42:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:42:38] [Server thread/INFO]: Preparing level "world"
+[19:42:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:42:53] [Server thread/INFO]: Time elapsed: 9078 ms
+[19:42:53] [Server thread/INFO]: Done (15.214s)! For help, type "help"
+[19:44:41] [Server thread/INFO]: AngelP25[/127.137.168.234:35389] logged in with entity id 40 at (2147.769139154957, 101.5625, -11754.300000011921)
+[19:44:41] [Server thread/INFO]: AngelP25 joined the game
+[19:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[19:44:57] [Server thread/INFO]: AlexisQS[/127.240.16.218:54209] logged in with entity id 289 at (2147.3374485062113, 101.5625, -11754.300000011921)
+[19:44:57] [Server thread/INFO]: AlexisQS joined the game
+[19:45:41] [Server thread/INFO]: AlexisQS was doomed to fall by AngelP25
+[19:47:12] [Server thread/INFO]: AlexisQS was shot by Skeleton
+[19:51:23] [Server thread/INFO]: AngelP25 fell from a high place
