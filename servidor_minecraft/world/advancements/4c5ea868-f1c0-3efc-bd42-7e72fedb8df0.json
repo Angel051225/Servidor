@@ -21,6 +21,7 @@
       "minecraft:badlands": "2025-07-17 04:18:02 +0000",
       "minecraft:beach": "2025-07-16 03:40:45 +0000",
       "minecraft:dark_forest": "2025-07-18 16:08:59 +0000",
+      "minecraft:stony_peaks": "2025-07-19 20:13:41 +0000",
       "minecraft:sparse_jungle": "2025-07-17 03:58:12 +0000",
       "minecraft:river": "2025-07-16 03:40:36 +0000",
       "minecraft:snowy_plains": "2025-07-16 02:37:58 +0000",
@@ -515,8 +516,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-19 20:08:57 +0000",
       "minecraft:skeleton": "2025-07-16 04:25:07 +0000",
       "minecraft:spider": "2025-07-17 04:06:16 +0000",
+      "minecraft:creeper": "2025-07-19 20:05:54 +0000",
       "minecraft:witch": "2025-07-17 04:04:31 +0000",
       "minecraft:zombie": "2025-07-16 02:47:12 +0000",
       "minecraft:drowned": "2025-07-16 20:34:38 +0000"
@@ -2056,6 +2059,72 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-07-18 16:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-19 20:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-19 20:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:22:12 +0000"
     },
     "done": true
   },
