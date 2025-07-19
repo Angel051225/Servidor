@@ -24,6 +24,7 @@
       "minecraft:stony_peaks": "2025-07-19 20:13:41 +0000",
       "minecraft:sparse_jungle": "2025-07-17 03:58:12 +0000",
       "minecraft:river": "2025-07-16 03:40:36 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-19 20:30:02 +0000",
       "minecraft:snowy_plains": "2025-07-16 02:37:58 +0000",
       "minecraft:stony_shore": "2025-07-16 02:48:45 +0000",
       "minecraft:snowy_taiga": "2025-07-16 02:43:19 +0000",
@@ -39,6 +40,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-16 20:28:26 +0000",
       "minecraft:snowy_beach": "2025-07-16 02:38:47 +0000",
       "minecraft:warm_ocean": "2025-07-17 04:18:19 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-19 20:30:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-16 20:31:38 +0000",
       "minecraft:meadow": "2025-07-16 03:35:09 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-16 03:53:44 +0000",
@@ -2068,9 +2070,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 20:28:28 +0000"
     },
     "done": true
   },
@@ -2086,9 +2100,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
     },
     "done": true
   },
@@ -2104,9 +2130,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-19 20:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 20:28:28 +0000"
     },
     "done": true
   },
@@ -2122,9 +2166,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-07-19 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 20:28:36 +0000"
     },
     "done": true
   },
