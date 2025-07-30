@@ -871,3 +871,5 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jul2025 23:20:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Not Today, Thank You]
 [30Jul2025 23:28:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Let's Get To Work]
 [30Jul2025 23:28:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Take Aim]
+[30Jul2025 23:36:27.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelP25 lost connection: Disconnected
+[30Jul2025 23:36:27.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 left the game
