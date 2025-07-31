@@ -468,3 +468,11 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [31Jul2025 00:59:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Take Aim]
 [31Jul2025 01:02:36.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexisQS lost connection: Disconnected
 [31Jul2025 01:02:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS left the game
+[31Jul2025 01:12:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Safe Haven]
+[31Jul2025 01:13:41.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Call For Adventure]
+[31Jul2025 01:13:47.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5907ms or 118 ticks behind
+[31Jul2025 01:19:16.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7184, l='ServerLevel[world]', x=-1158.48, y=104.00, z=-660.30] died, message: 'Farmer was slain by Vindicator'
+[31Jul2025 01:23:03.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7236, l='ServerLevel[world]', x=-1168.95, y=109.00, z=-726.66] died, message: 'Villager was slain by Vindicator'
+[31Jul2025 01:25:01.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexisQS[/127.240.16.218:59551] logged in with entity id 9643 at (-1018.6962440996105, 28.0, -304.55288232176343)
+[31Jul2025 01:25:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS joined the game
+[31Jul2025 01:28:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Safe Haven]

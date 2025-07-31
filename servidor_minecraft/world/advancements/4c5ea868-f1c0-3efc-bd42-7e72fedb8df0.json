@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-30 22:31:26 +0000",
+      "minecraft:cherry_grove": "2025-07-31 01:08:24 +0000",
       "minecraft:beach": "2025-07-30 22:39:41 +0000",
       "minecraft:river": "2025-07-30 22:39:46 +0000",
       "minecraft:stony_shore": "2025-07-30 22:48:05 +0000",
@@ -28,6 +29,7 @@
       "minecraft:forest": "2025-07-30 22:32:16 +0000",
       "minecraft:deep_cold_ocean": "2025-07-30 22:43:11 +0000",
       "minecraft:snowy_beach": "2025-07-30 22:34:53 +0000",
+      "minecraft:meadow": "2025-07-31 01:12:01 +0000",
       "minecraft:plains": "2025-07-30 22:44:23 +0000"
     },
     "done": false
@@ -428,6 +430,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-31 01:25:30 +0000",
       "minecraft:skeleton": "2025-07-30 23:20:38 +0000",
       "minecraft:creeper": "2025-07-31 00:50:32 +0000",
       "minecraft:cave_spider": "2025-07-31 00:58:01 +0000",
@@ -1761,6 +1764,18 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
+    "criteria": {
+      "has_hopper": "2025-07-31 01:10:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-31 01:12:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-07-31 00:46:06 +0000"
@@ -1779,6 +1794,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-07-31 01:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-31 00:55:26 +0000"
@@ -1788,6 +1809,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-31 00:55:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-07-31 01:13:41 +0000"
     },
     "done": true
   },
@@ -1803,9 +1830,21 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
+    "criteria": {
+      "has_hopper": "2025-07-31 01:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-31 00:55:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
+    "criteria": {
+      "has_hopper": "2025-07-31 01:10:50 +0000"
     },
     "done": true
   },
@@ -1821,6 +1860,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/honey_harvester_frame_enhancement": {
+    "criteria": {
+      "has_hopper": "2025-07-31 01:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-31 00:46:06 +0000"
@@ -1830,6 +1875,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-31 00:55:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/egg_collector_enhancement": {
+    "criteria": {
+      "has_hopper": "2025-07-31 01:10:50 +0000"
     },
     "done": true
   },
