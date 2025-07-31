@@ -599,7 +599,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-31 00:44:24 +0000",
-      "minecraft:zombie": "2025-07-30 22:48:41 +0000"
+      "minecraft:skeleton": "2025-07-31 00:56:12 +0000",
+      "minecraft:zombie": "2025-07-30 22:48:41 +0000",
+      "minecraft:zombie_villager": "2025-07-31 00:57:38 +0000"
     },
     "done": false
   },
@@ -855,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-31 00:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-31 00:50:49 +0000"
@@ -960,6 +968,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-31 00:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-31 00:56:13 +0000"
     },
     "done": true
   },
@@ -1098,6 +1112,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 00:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-31 00:58:08 +0000"
     },
     "done": true
   },

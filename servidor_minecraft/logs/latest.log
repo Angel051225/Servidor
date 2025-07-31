@@ -465,3 +465,6 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [31Jul2025 00:52:42.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by Cave Spider
 [31Jul2025 00:52:50.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was slain by Cave Spider
 [31Jul2025 00:55:26.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Diamonds!]
+[31Jul2025 00:59:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Take Aim]
+[31Jul2025 01:02:36.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexisQS lost connection: Disconnected
+[31Jul2025 01:02:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS left the game
