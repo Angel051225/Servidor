@@ -476,3 +476,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [31Jul2025 01:25:01.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexisQS[/127.240.16.218:59551] logged in with entity id 9643 at (-1018.6962440996105, 28.0, -304.55288232176343)
 [31Jul2025 01:25:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS joined the game
 [31Jul2025 01:28:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Safe Haven]
+[31Jul2025 01:31:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Ice Bucket Challenge]
+[31Jul2025 01:37:40.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlexisQS) moved wrongly! 0.29292277099057173
+[31Jul2025 01:37:40.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlexisQS) moved wrongly! 0.3681935807544505
+[31Jul2025 01:37:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlexisQS) moved wrongly! 0.4133560684074382

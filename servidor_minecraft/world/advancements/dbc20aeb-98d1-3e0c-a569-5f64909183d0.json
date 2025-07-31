@@ -19,13 +19,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-31 01:31:48 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-31 01:33:50 +0000",
       "minecraft:taiga": "2025-07-30 22:20:24 +0000",
       "minecraft:beach": "2025-07-30 22:20:45 +0000",
       "minecraft:river": "2025-07-30 22:39:48 +0000",
       "minecraft:snowy_taiga": "2025-07-30 22:24:21 +0000",
+      "minecraft:grove": "2025-07-31 01:34:21 +0000",
       "minecraft:cold_ocean": "2025-07-30 22:40:07 +0000",
       "minecraft:forest": "2025-07-30 22:20:42 +0000",
       "minecraft:deep_cold_ocean": "2025-07-30 22:43:11 +0000",
+      "minecraft:frozen_peaks": "2025-07-31 01:34:38 +0000",
+      "minecraft:meadow": "2025-07-31 01:28:28 +0000",
       "minecraft:plains": "2025-07-30 22:44:23 +0000"
     },
     "done": false
@@ -1124,6 +1129,90 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-31 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-31 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-31 01:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-31 01:31:19 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-07-31 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-31 01:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-31 01:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-31 01:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-31 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-31 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-31 01:26:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-31 01:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-31 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-31 01:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-31 01:35:38 +0000"
     },
     "done": true
   },

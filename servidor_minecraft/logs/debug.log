@@ -2511,3 +2511,11 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [31Jul2025 01:25:47.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 01:25:47.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jul2025 01:28:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Safe Haven]
+[31Jul2025 01:30:47.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 01:30:47.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 01:31:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Ice Bucket Challenge]
+[31Jul2025 01:35:47.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 01:35:47.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 01:37:40.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlexisQS) moved wrongly! 0.29292277099057173
+[31Jul2025 01:37:40.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlexisQS) moved wrongly! 0.3681935807544505
+[31Jul2025 01:37:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlexisQS) moved wrongly! 0.4133560684074382
