@@ -3677,3 +3677,33 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01Aug2025 20:15:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has reached the goal [Die Classy]
 [01Aug2025 20:18:53.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2025 20:18:53.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:20:25.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Let's Get To Work]
+[01Aug2025 20:20:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
+[01Aug2025 20:20:32.962] [Server thread/DEBUG] [tombstone/]: A new grave of the player AlexisQS was created at position [x:-1415, y:76, z:-3532, dim:minecraft:overworld]
+[01Aug2025 20:20:32.963] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
+[01Aug2025 20:21:01.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Not Today, Thank You]
+[01Aug2025 20:21:29.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was slain by AlexisQS
+[01Aug2025 20:21:29.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player AngelP25 was created at position [x:-1418, y:72, z:-3525, dim:minecraft:overworld]
+[01Aug2025 20:21:29.276] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[01Aug2025 20:22:10.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
+[01Aug2025 20:22:10.859] [Server thread/DEBUG] [tombstone/]: A new grave of the player AlexisQS was created at position [x:-1422, y:77, z:-3532, dim:minecraft:overworld]
+[01Aug2025 20:22:10.862] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
+[01Aug2025 20:23:53.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:23:53.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:24:00.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Advanced Setup: Tier 2]
+[01Aug2025 20:27:50.555] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Aug2025 20:28:53.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:28:53.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:31:52.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzzz
+[01Aug2025 20:33:53.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:33:53.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:38:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was shot by Skeleton
+[01Aug2025 20:38:38.911] [Server thread/DEBUG] [tombstone/]: A new grave of the player AngelP25 was created at position [x:-1458, y:67, z:-3539, dim:minecraft:overworld]
+[01Aug2025 20:38:38.914] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[01Aug2025 20:38:53.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:38:53.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:39:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Ashes 'n Bones]
+[01Aug2025 20:43:53.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:43:53.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:48:53.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:48:53.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
