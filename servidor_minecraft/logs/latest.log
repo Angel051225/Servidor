@@ -880,3 +880,11 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01Aug2025 19:46:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Ashes 'n Bones]
 [01Aug2025 19:54:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzzz
 [01Aug2025 19:57:26.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> xaero-waypoint:Casa:C:-1427:94:-3530:4:false:0:Internal-overworld-waypoints
+[01Aug2025 20:01:03.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was doomed to fall
+[01Aug2025 20:01:03.871] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[01Aug2025 20:07:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was doomed to fall by Skeleton
+[01Aug2025 20:07:06.661] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[01Aug2025 20:14:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
+[01Aug2025 20:14:01.425] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
+[01Aug2025 20:14:24.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has reached the goal [Here They Come]
+[01Aug2025 20:15:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has reached the goal [Die Classy]
