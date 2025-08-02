@@ -507,3 +507,18 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02Aug2025 03:08:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> sabes, el novio de mi hermana esta en la casa
 [02Aug2025 03:24:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzz
 [02Aug2025 03:24:26.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> por que no hablas xd
+[02Aug2025 03:38:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> XD
+[02Aug2025 03:38:58.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzzz
+[02Aug2025 03:54:48.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Hot Stuff]
+[02Aug2025 03:59:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Hot Stuff]
+[02Aug2025 04:07:48.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has reached the goal [Strong or Careful]
+[02Aug2025 04:07:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 fell off some vines
+[02Aug2025 04:07:48.858] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[02Aug2025 04:08:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was doomed to fall by AlexisQS
+[02Aug2025 04:08:05.128] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[02Aug2025 04:09:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was slain by AlexisQS
+[02Aug2025 04:09:55.645] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[02Aug2025 04:11:50.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelP25 lost connection: Disconnected
+[02Aug2025 04:11:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 left the game
+[02Aug2025 04:11:52.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexisQS lost connection: Disconnected
+[02Aug2025 04:11:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS left the game
