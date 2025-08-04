@@ -1879,6 +1879,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "oceanographytable": "2025-08-01 20:47:31 +0000",
+      "smithingtable": "2025-08-04 01:47:39 +0000",
       "cauldron": "2025-08-01 20:20:25 +0000"
     },
     "done": false

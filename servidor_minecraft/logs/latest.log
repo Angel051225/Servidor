@@ -498,3 +498,4 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 01:42:03.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS joined the game
 [04Aug2025 01:42:42.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> tienes baja la señal
 [04Aug2025 01:43:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> tas bien?
+[04Aug2025 01:52:57.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind

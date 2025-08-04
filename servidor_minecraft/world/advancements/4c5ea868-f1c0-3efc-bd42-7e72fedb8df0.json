@@ -27,6 +27,7 @@
       "minecraft:bamboo_jungle": "2025-07-31 01:49:41 +0000",
       "minecraft:beach": "2025-07-30 22:39:41 +0000",
       "minecraft:dark_forest": "2025-07-31 01:36:39 +0000",
+      "minecraft:mangrove_swamp": "2025-08-04 01:52:39 +0000",
       "minecraft:sparse_jungle": "2025-07-31 01:47:30 +0000",
       "minecraft:river": "2025-07-30 22:39:46 +0000",
       "minecraft:stony_shore": "2025-07-30 22:48:05 +0000",
@@ -2670,6 +2671,24 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-08-02 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-04 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-04 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-04 01:51:46 +0000"
     },
     "done": true
   },
