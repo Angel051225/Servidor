@@ -2964,3 +2964,26 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 02:57:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has reached the goal [Discreet Search]
 [04Aug2025 02:57:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Spectator Mode]
 [04Aug2025 02:57:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to -1426.500000, 94.500000, -3529.500000]
+[04Aug2025 02:59:02.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:59:02.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:01:11.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Survival Mode]
+[04Aug2025 03:04:02.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:04:02.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:09:02.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:09:02.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:14:02.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:14:02.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:15:05.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
+[04Aug2025 03:15:05.098] [Server thread/DEBUG] [tombstone/]: A new grave of the player AlexisQS was created at position [x:-1423, y:77, z:-3536, dim:minecraft:overworld]
+[04Aug2025 03:15:05.098] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
+[04Aug2025 03:16:36.894] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/block/DispenserBlock$Anonymous$941b995ebe8245e89cb286a0c16e485a (originally forge/com/cursee/more_bows_and_arrows/mixin/DispenserBlockMixin$1)
+[04Aug2025 03:19:02.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:19:02.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:24:02.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:24:02.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:29:02.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:29:02.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:34:02.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:34:02.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:39:02.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:39:02.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

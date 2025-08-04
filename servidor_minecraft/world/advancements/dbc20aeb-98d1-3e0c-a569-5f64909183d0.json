@@ -1879,8 +1879,10 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-08-04 03:12:59 +0000",
       "oceanographytable": "2025-08-01 20:47:31 +0000",
       "smithingtable": "2025-08-04 01:47:39 +0000",
+      "lectern": "2025-08-04 03:18:45 +0000",
       "cauldron": "2025-08-01 20:20:25 +0000"
     },
     "done": false
@@ -2259,6 +2261,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-04 03:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-04 02:45:39 +0000"
@@ -2340,6 +2348,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-04 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-08-04 03:07:26 +0000"
     },
     "done": true
   },
@@ -2433,6 +2447,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-08-04 03:12:59 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
     "criteria": {
       "has_quartz": "2025-08-04 02:11:00 +0000"
@@ -2496,6 +2516,12 @@
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-08-04 02:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-04 03:06:05 +0000"
     },
     "done": true
   },
@@ -2709,6 +2735,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-04 03:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-08-04 02:26:34 +0000"
@@ -2742,6 +2774,12 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-08-04 02:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-08-04 03:10:10 +0000"
     },
     "done": true
   },
@@ -2817,9 +2855,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-08-04 03:07:26 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-08-04 02:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-04 03:07:26 +0000"
     },
     "done": true
   },
@@ -2853,6 +2903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-04 03:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 01:54:13 +0000"
@@ -2868,6 +2924,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-04 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-04 03:07:26 +0000"
     },
     "done": true
   },

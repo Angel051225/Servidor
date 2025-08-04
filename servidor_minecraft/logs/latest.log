@@ -519,3 +519,6 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 02:57:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has reached the goal [Discreet Search]
 [04Aug2025 02:57:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Spectator Mode]
 [04Aug2025 02:57:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to -1426.500000, 94.500000, -3529.500000]
+[04Aug2025 03:01:11.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Survival Mode]
+[04Aug2025 03:15:05.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
+[04Aug2025 03:15:05.098] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
