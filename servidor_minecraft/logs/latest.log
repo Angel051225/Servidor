@@ -522,3 +522,5 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 03:01:11.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Survival Mode]
 [04Aug2025 03:15:05.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
 [04Aug2025 03:15:05.098] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
+[04Aug2025 03:43:57.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was shot by Skeleton
+[04Aug2025 03:43:57.554] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
