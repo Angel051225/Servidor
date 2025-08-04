@@ -2919,3 +2919,48 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 01:53:45.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 01:53:45.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Aug2025 01:54:16.087] [Worker-Main-8/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Aug2025 01:58:16.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04Aug2025 01:58:47.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 01:58:47.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:01:01.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7236, l='ServerLevel[world]', x=-1185.56, y=66.00, z=-4183.29] died, message: 'Villager was slain by Husk'
+[04Aug2025 02:03:47.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:03:47.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:07:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> vino el novio a la casa
+[04Aug2025 02:07:47.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> simon esta converasando en el comedor con mis padres
+[04Aug2025 02:08:47.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:08:47.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:10:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [We Need to Go Deeper]
+[04Aug2025 02:10:18.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7428ms or 148 ticks behind
+[04Aug2025 02:12:31.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelP25 moved too quickly! -3.886267008491359,-1.130906499714527,-9.233726830616433
+[04Aug2025 02:12:31.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
+[04Aug2025 02:13:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Isn't It Iron Pick]
+[04Aug2025 02:13:43.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[04Aug2025 02:14:02.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:14:02.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:19:02.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:19:02.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:24:02.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:24:02.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:29:02.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:29:02.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:32:48.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Where Is The Stone Pen?]
+[04Aug2025 02:34:02.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:34:02.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:39:02.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:39:02.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:40:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 tried to swim in lava
+[04Aug2025 02:40:29.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player AngelP25 was created at position [x:-2166, y:-32, z:-4616, dim:minecraft:overworld]
+[04Aug2025 02:40:29.834] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[04Aug2025 02:44:02.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:44:02.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:49:02.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:49:02.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:54:02.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:54:02.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:55:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Spectator Mode]
+[04Aug2025 02:55:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to AngelP25]
+[04Aug2025 02:56:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to AngelP25]
+[04Aug2025 02:56:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Survival Mode]
+[04Aug2025 02:57:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has reached the goal [Discreet Search]
+[04Aug2025 02:57:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Spectator Mode]
+[04Aug2025 02:57:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to -1426.500000, 94.500000, -3529.500000]

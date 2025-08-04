@@ -499,3 +499,23 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 01:42:42.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> tienes baja la señal
 [04Aug2025 01:43:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> tas bien?
 [04Aug2025 01:52:57.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[04Aug2025 01:58:16.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04Aug2025 02:01:01.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7236, l='ServerLevel[world]', x=-1185.56, y=66.00, z=-4183.29] died, message: 'Villager was slain by Husk'
+[04Aug2025 02:07:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> vino el novio a la casa
+[04Aug2025 02:07:47.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> simon esta converasando en el comedor con mis padres
+[04Aug2025 02:10:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [We Need to Go Deeper]
+[04Aug2025 02:10:18.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7428ms or 148 ticks behind
+[04Aug2025 02:12:31.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelP25 moved too quickly! -3.886267008491359,-1.130906499714527,-9.233726830616433
+[04Aug2025 02:12:31.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
+[04Aug2025 02:13:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Isn't It Iron Pick]
+[04Aug2025 02:13:43.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[04Aug2025 02:32:48.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Where Is The Stone Pen?]
+[04Aug2025 02:40:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 tried to swim in lava
+[04Aug2025 02:40:29.834] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[04Aug2025 02:55:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Spectator Mode]
+[04Aug2025 02:55:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to AngelP25]
+[04Aug2025 02:56:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to AngelP25]
+[04Aug2025 02:56:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Survival Mode]
+[04Aug2025 02:57:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has reached the goal [Discreet Search]
+[04Aug2025 02:57:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Set own game mode to Spectator Mode]
+[04Aug2025 02:57:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexisQS: Teleported AlexisQS to -1426.500000, 94.500000, -3529.500000]
