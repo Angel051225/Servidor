@@ -3007,3 +3007,23 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [04Aug2025 04:19:02.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 04:19:02.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Aug2025 04:19:55.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1417, y=83, z=-3553} BlockPos{x=-1416, y=83, z=-3553}
+[04Aug2025 04:24:02.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:24:02.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:28:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Where Is The Stone Pen?]
+[04Aug2025 04:29:02.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:29:02.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:34:02.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:34:02.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:37:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was slain by AlexisQS
+[04Aug2025 04:37:34.480] [Server thread/DEBUG] [tombstone/]: A new grave of the player AngelP25 was created at position [x:-1421, y:77, z:-3554, dim:minecraft:overworld]
+[04Aug2025 04:37:34.481] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[04Aug2025 04:39:02.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:39:02.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:39:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
+[04Aug2025 04:39:06.714] [Server thread/DEBUG] [tombstone/]: A new grave of the player AlexisQS was created at position [x:-1418, y:77, z:-3545, dim:minecraft:overworld]
+[04Aug2025 04:39:06.717] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
+[04Aug2025 04:41:11.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has reached the goal [Discreet Search]
+[04Aug2025 04:44:02.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:44:02.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:49:02.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:49:02.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
