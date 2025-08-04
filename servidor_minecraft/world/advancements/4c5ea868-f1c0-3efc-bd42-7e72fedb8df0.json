@@ -2607,7 +2607,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-02 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-02 03:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-02 03:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-02 03:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-08-02 03:53:43 +0000"
     },
@@ -2625,13 +2649,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "has_raw_gold": "2025-08-02 03:53:43 +0000"
+      "has_amethyst_shard": "2025-08-02 03:54:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tinted_glass": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-08-02 03:54:33 +0000"
     },
@@ -2640,30 +2664,6 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-02 03:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-02 03:53:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-02 03:33:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-08-02 03:36:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-02 03:54:33 +0000"
     },
     "done": true
   },
