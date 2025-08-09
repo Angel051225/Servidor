@@ -1652,6 +1652,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-08-09 22:14:07 +0000",
       "smoker": "2025-07-30 23:28:13 +0000",
       "smithingtable": "2025-08-02 03:13:50 +0000",
       "lectern": "2025-08-01 20:42:28 +0000",
@@ -3216,6 +3217,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-04 04:45:05 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-08-09 22:14:07 +0000"
     },
     "done": true
   },
