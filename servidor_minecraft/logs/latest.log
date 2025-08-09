@@ -498,3 +498,6 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [09Aug2025 22:12:00.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AngelP25 a server operator
 [09Aug2025 22:12:47.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Creative Mode]
 [09Aug2025 22:14:19.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Survival Mode]
+[09Aug2025 22:39:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 fell from a high place
+[09Aug2025 22:39:49.157] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[09Aug2025 22:42:37.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/200, l='ServerLevel[world]', x=55.51, y=72.00, z=122.44] died, message: 'Oceanographer hit the ground too hard'

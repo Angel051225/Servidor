@@ -462,6 +462,7 @@
       "minecraft:skeleton": "2025-07-30 23:20:38 +0000",
       "minecraft:spider": "2025-08-01 20:13:44 +0000",
       "minecraft:creeper": "2025-07-31 00:50:32 +0000",
+      "minecraft:zombified_piglin": "2025-08-09 22:26:44 +0000",
       "minecraft:cave_spider": "2025-07-31 00:58:01 +0000",
       "minecraft:enderman": "2025-08-01 19:56:02 +0000",
       "minecraft:zombie": "2025-07-30 22:52:05 +0000"
@@ -3223,6 +3224,12 @@
   "morevillagers:recipes/oceanography_table": {
     "criteria": {
       "has_barrel": "2025-08-09 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-09 22:26:28 +0000"
     },
     "done": true
   },

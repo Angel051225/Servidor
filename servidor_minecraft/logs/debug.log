@@ -2790,3 +2790,17 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [09Aug2025 22:20:24.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Aug2025 22:25:24.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Aug2025 22:25:24.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 22:30:24.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 22:30:24.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 22:35:24.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 22:35:24.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 22:39:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 fell from a high place
+[09Aug2025 22:39:49.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player AngelP25 was created at position [x:-1453, y:75, z:-3563, dim:minecraft:overworld]
+[09Aug2025 22:39:49.157] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[09Aug2025 22:40:24.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 22:40:24.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 22:42:37.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/200, l='ServerLevel[world]', x=55.51, y=72.00, z=122.44] died, message: 'Oceanographer hit the ground too hard'
+[09Aug2025 22:45:24.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 22:45:24.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 22:50:24.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 22:50:24.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
