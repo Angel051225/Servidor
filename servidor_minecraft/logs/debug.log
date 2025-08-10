@@ -2828,3 +2828,10 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [09Aug2025 23:45:24.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Aug2025 23:50:24.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Aug2025 23:50:24.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 23:55:24.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 23:55:24.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 23:57:16.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 fell from a high place
+[09Aug2025 23:57:16.136] [Server thread/DEBUG] [tombstone/]: A new grave of the player AngelP25 was created at position [x:-1433, y:77, z:-3536, dim:minecraft:overworld]
+[09Aug2025 23:57:16.136] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
+[10Aug2025 00:00:24.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:00:24.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -3233,6 +3233,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/iron_golem_farm": {
+    "criteria": {
+      "has_iron_golem_farm": "2025-08-09 23:55:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-08-09 22:26:28 +0000"
