@@ -2999,3 +2999,29 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [10Aug2025 03:34:12.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Aug2025 03:34:26.119] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/block/DispenserBlock$Anonymous$55531b1447a14b75961dabf20f355ef3 (originally forge/com/cursee/more_bows_and_arrows/mixin/DispenserBlockMixin$1)
 [10Aug2025 03:36:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Ace Trainer]
+[10Aug2025 03:39:12.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:39:12.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:41:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> ya me voy a desconectar bro
+[10Aug2025 03:41:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> pilas
+[10Aug2025 03:43:03.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/17667, l='ServerLevel[world]', x=-1192.30, y=59.00, z=-4165.31] died, message: 'Hunter was slain by Zombie'
+[10Aug2025 03:43:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> ok bro
+[10Aug2025 03:43:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> como llegaste aqui?
+[10Aug2025 03:43:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> pilas
+[10Aug2025 03:43:54.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexisQS lost connection: Disconnected
+[10Aug2025 03:43:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS left the game
+[10Aug2025 03:44:12.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:44:12.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:46:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Creative Mode]
+[10Aug2025 03:47:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Survival Mode]
+[10Aug2025 03:49:12.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:49:12.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:50:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Cover Me with Diamonds]
+[10Aug2025 03:54:12.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:54:12.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:54:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Ice Bucket Challenge]
+[10Aug2025 03:59:12.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:59:12.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 04:04:12.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 04:04:12.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 04:09:12.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 04:09:12.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

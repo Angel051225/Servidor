@@ -1886,7 +1886,8 @@
       "smithingtable": "2025-08-04 01:47:39 +0000",
       "lectern": "2025-08-04 03:18:45 +0000",
       "stonecutter": "2025-08-04 04:54:20 +0000",
-      "cauldron": "2025-08-01 20:20:25 +0000"
+      "cauldron": "2025-08-01 20:20:25 +0000",
+      "composter": "2025-08-10 03:36:30 +0000"
     },
     "done": false
   },
@@ -3272,6 +3273,12 @@
     },
     "done": true
   },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-10 03:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 02:42:40 +0000"
@@ -3289,6 +3296,13 @@
       "has_copper_ingot": "2025-08-10 02:42:40 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-08-10 03:36:59 +0000",
+      "farmer": "2025-08-10 03:37:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/brush": {
     "criteria": {

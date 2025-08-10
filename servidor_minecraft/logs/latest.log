@@ -554,3 +554,15 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [10Aug2025 03:31:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> voy a conseguir carbon bro
 [10Aug2025 03:31:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> poxi
 [10Aug2025 03:36:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Ace Trainer]
+[10Aug2025 03:41:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> ya me voy a desconectar bro
+[10Aug2025 03:41:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> pilas
+[10Aug2025 03:43:03.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/17667, l='ServerLevel[world]', x=-1192.30, y=59.00, z=-4165.31] died, message: 'Hunter was slain by Zombie'
+[10Aug2025 03:43:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> ok bro
+[10Aug2025 03:43:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> como llegaste aqui?
+[10Aug2025 03:43:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> pilas
+[10Aug2025 03:43:54.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexisQS lost connection: Disconnected
+[10Aug2025 03:43:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS left the game
+[10Aug2025 03:46:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Creative Mode]
+[10Aug2025 03:47:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Survival Mode]
+[10Aug2025 03:50:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Cover Me with Diamonds]
+[10Aug2025 03:54:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Ice Bucket Challenge]
