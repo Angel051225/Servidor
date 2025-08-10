@@ -1,36 +1,36 @@
-[10Aug2025 02:28:09.593] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10Aug2025 02:28:09.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[10Aug2025 02:28:10.547] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10Aug2025 02:28:10.661] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10Aug2025 02:28:11.097] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[10Aug2025 02:28:11.102] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Aug2025 02:28:11.104] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Aug2025 02:28:11.106] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Aug2025 02:28:11.370] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[10Aug2025 02:28:14.826] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Aug2025 02:28:14.869] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
-[10Aug2025 02:28:15.123] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[10Aug2025 02:28:15.127] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[10Aug2025 02:28:15.162] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Aug2025 02:28:15.175] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Aug2025 02:28:15.333] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Aug2025 02:28:15.351] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Aug2025 02:28:17.807] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[10Aug2025 02:28:28.575] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
-[10Aug2025 02:28:28.576] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
-[10Aug2025 02:28:28.577] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
-[10Aug2025 02:28:28.580] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
-[10Aug2025 02:28:28.580] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
-[10Aug2025 02:28:28.581] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
-[10Aug2025 02:28:28.584] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
-[10Aug2025 02:28:28.585] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Servidor/servidor_minecraft/config/easy_mob_farm
-[10Aug2025 02:28:28.586] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
-[10Aug2025 02:28:28.589] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
+[10Aug2025 20:32:51.857] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Aug2025 20:32:51.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[10Aug2025 20:32:52.683] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Aug2025 20:32:52.760] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Aug2025 20:32:53.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 20:32:53.225] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 20:32:53.227] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 20:32:53.229] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 20:32:53.512] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[10Aug2025 20:32:57.329] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Aug2025 20:32:57.368] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[10Aug2025 20:32:57.574] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[10Aug2025 20:32:57.577] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Aug2025 20:32:57.610] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Aug2025 20:32:57.632] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Aug2025 20:32:57.840] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Aug2025 20:32:57.868] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Aug2025 20:33:00.427] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10Aug2025 20:33:11.898] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
+[10Aug2025 20:33:11.903] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
+[10Aug2025 20:33:11.905] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
+[10Aug2025 20:33:11.906] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
+[10Aug2025 20:33:11.907] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
+[10Aug2025 20:33:11.909] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
+[10Aug2025 20:33:11.913] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
+[10Aug2025 20:33:11.919] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Servidor/servidor_minecraft/config/easy_mob_farm
+[10Aug2025 20:33:11.919] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
+[10Aug2025 20:33:11.923] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
 
  This configuration file allows you to define the general settings for the Mob Farms.
 
  is up to date: {progressingRequiresOwnerToBeOnline=false, luckyDropFarmLuckPercentage=95, tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=6, tier2progressionUpgradeSpeed=4, farmProgressingTime=6000, tier1progressionUpgradeSpeed=2, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
-[10Aug2025 02:28:28.596] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
+[10Aug2025 20:33:11.924] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
 
  This configuration file allows you to define the general settings for the Mob Capture Cards.
 
@@ -54,7 +54,7 @@
 
 
  is up to date: {mobCaptureCardFishingDropChance=0.15, mobCaptureCardFishingDropAllowList=, dropMobCaptureCardOnFishing=true, requirePlayerKill=true, mobCaptureCardFishingDropDenyList=, mobCaptureCardKillDropAllowList=, mobCaptureCardKillDropDenyList=, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
-[10Aug2025 02:28:28.600] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
+[10Aug2025 20:33:11.929] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
 
  This configuration file allows you to define the general settings for the Mob Catcher.
 
@@ -74,66 +74,66 @@
 
 
  is up to date: {EnduringCaptureNet:Enabled=true, VoidBindingChain:MaxEntityHeightToCapture=6.0, EnduringCaptureNet:MaxEntityWidthToCapture=0.9, IronboundContainmentCage:RequiredHealthPercentageToCapture=0.25, EnduringCaptureNet:DenyList=, IronboundContainmentCage:MaxEntityHeightToCapture=2.0, IronboundContainmentCage:Enabled=true, MysticBindingCrystal:AllowList=, IronboundContainmentCage:MaxEntityWidthToCapture=1.5, VoidBindingChain:MaxDurability=16, MysticBindingCrystal:Enabled=true, IronboundContainmentCage:MaxDurability=32, MysticBindingCrystal:MaxEntityWidthToCapture=3.0, MysticBindingCrystal:MaxDurability=32, VoidBindingChain:MaxEntityWidthToCapture=4.0, EnduringCaptureNet:MaxDurability=64, EnduringCaptureNet:AllowList=, VoidBindingChain:AllowList=, IronboundContainmentCage:DenyList=, VoidBindingChain:DenyList=, EnduringCaptureNet:RequiredHealthPercentageToCapture=0.5, MysticBindingCrystal:DenyList=, IronboundContainmentCage:AllowList=, MysticBindingCrystal:MaxEntityHeightToCapture=4.0, MysticBindingCrystal:RequiredHealthPercentageToCapture=0.25, VoidBindingChain:Enabled=true, VoidBindingChain:RequiredHealthPercentageToCapture=0.2, EnduringCaptureNet:MaxEntityHeightToCapture=1.4}
-[10Aug2025 02:28:28.602] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
-[10Aug2025 02:28:28.602] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
-[10Aug2025 02:28:28.604] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
-[10Aug2025 02:28:28.607] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: false
-[10Aug2025 02:28:28.609] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Swampier Swamps mod with id 'swampier_swamps' loaded: false
-[10Aug2025 02:28:28.609] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
-[10Aug2025 02:28:28.611] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
-[10Aug2025 02:28:28.611] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
-[10Aug2025 02:28:28.663] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
-[10Aug2025 02:28:28.664] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
-[10Aug2025 02:28:28.679] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
-[10Aug2025 02:28:28.720] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
-[10Aug2025 02:28:28.724] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Network Handler ...
-[10Aug2025 02:28:28.940] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[10Aug2025 02:28:28.966] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[10Aug2025 02:28:29.017] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10Aug2025 02:28:29.019] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[10Aug2025 02:28:29.021] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
-[10Aug2025 02:28:29.021] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
-[10Aug2025 02:28:29.026] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[10Aug2025 02:28:29.026] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[10Aug2025 02:28:29.040] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[10Aug2025 02:28:29.046] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
-[10Aug2025 02:28:29.046] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[10Aug2025 02:28:29.047] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[10Aug2025 02:28:29.047] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
-[10Aug2025 02:28:29.048] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[10Aug2025 02:28:29.172] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[10Aug2025 02:28:29.992] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[10Aug2025 02:28:29.992] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[10Aug2025 02:28:32.532] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[10Aug2025 02:28:32.535] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[10Aug2025 02:28:32.536] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[10Aug2025 02:28:32.575] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[10Aug2025 02:28:32.580] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[10Aug2025 02:28:33.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[10Aug2025 02:28:33.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[10Aug2025 02:28:33.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[10Aug2025 02:28:34.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[10Aug2025 02:28:34.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[10Aug2025 02:28:34.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.33 Target: 1.20.1-1.1.35
-[10Aug2025 02:28:34.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[10Aug2025 02:28:34.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[10Aug2025 02:28:34.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[10Aug2025 02:28:34.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.6 Target: null
-[10Aug2025 02:28:34.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
-[10Aug2025 02:28:34.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Found status: UP_TO_DATE Current: 2.1.7 Target: null
-[10Aug2025 02:28:34.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Aug2025 02:28:34.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[10Aug2025 02:28:34.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[10Aug2025 02:28:34.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.1 Target: 1.7.1
-[10Aug2025 02:28:34.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
-[10Aug2025 02:28:34.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
-[10Aug2025 02:28:36.886] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Aug2025 02:28:38.464] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
-[10Aug2025 02:28:38.465] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
-[10Aug2025 02:28:39.579] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[10Aug2025 02:28:41.960] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
-[10Aug2025 02:28:42.050] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm server-side resource listener ...
-[10Aug2025 02:28:43.061] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:easy_mob_farm:entities/iceandfire/ice_dragon
+[10Aug2025 20:33:11.933] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
+[10Aug2025 20:33:11.933] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
+[10Aug2025 20:33:11.934] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
+[10Aug2025 20:33:11.936] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: false
+[10Aug2025 20:33:11.936] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Swampier Swamps mod with id 'swampier_swamps' loaded: false
+[10Aug2025 20:33:11.937] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
+[10Aug2025 20:33:11.940] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
+[10Aug2025 20:33:11.940] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
+[10Aug2025 20:33:11.973] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
+[10Aug2025 20:33:11.974] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
+[10Aug2025 20:33:11.984] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
+[10Aug2025 20:33:12.016] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
+[10Aug2025 20:33:12.021] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Network Handler ...
+[10Aug2025 20:33:12.387] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[10Aug2025 20:33:12.409] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[10Aug2025 20:33:12.424] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Aug2025 20:33:12.427] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[10Aug2025 20:33:12.428] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[10Aug2025 20:33:12.429] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[10Aug2025 20:33:12.433] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[10Aug2025 20:33:12.434] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[10Aug2025 20:33:12.457] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[10Aug2025 20:33:12.463] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[10Aug2025 20:33:12.463] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[10Aug2025 20:33:12.463] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[10Aug2025 20:33:12.464] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[10Aug2025 20:33:12.464] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[10Aug2025 20:33:12.644] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[10Aug2025 20:33:13.367] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Aug2025 20:33:13.368] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Aug2025 20:33:16.076] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[10Aug2025 20:33:16.082] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[10Aug2025 20:33:16.086] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[10Aug2025 20:33:16.116] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[10Aug2025 20:33:16.127] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[10Aug2025 20:33:16.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[10Aug2025 20:33:17.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[10Aug2025 20:33:17.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[10Aug2025 20:33:17.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[10Aug2025 20:33:17.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[10Aug2025 20:33:17.714] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.33 Target: 1.20.1-1.1.35
+[10Aug2025 20:33:17.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[10Aug2025 20:33:18.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[10Aug2025 20:33:18.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[10Aug2025 20:33:18.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.6 Target: null
+[10Aug2025 20:33:18.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
+[10Aug2025 20:33:18.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Found status: UP_TO_DATE Current: 2.1.7 Target: null
+[10Aug2025 20:33:18.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Aug2025 20:33:18.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[10Aug2025 20:33:18.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[10Aug2025 20:33:18.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.1 Target: 1.7.1
+[10Aug2025 20:33:18.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
+[10Aug2025 20:33:18.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
+[10Aug2025 20:33:20.831] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Aug2025 20:33:22.814] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[10Aug2025 20:33:22.816] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[10Aug2025 20:33:23.961] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[10Aug2025 20:33:26.759] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
+[10Aug2025 20:33:26.848] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm server-side resource listener ...
+[10Aug2025 20:33:27.784] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:easy_mob_farm:entities/iceandfire/ice_dragon
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'iceandfire:dragonbone'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -185,7 +185,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10Aug2025 02:28:43.404] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:easy_mob_farm:entities/iceandfire/fire_dragon
+[10Aug2025 20:33:28.098] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:easy_mob_farm:entities/iceandfire/fire_dragon
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'iceandfire:dragonbone'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -237,7 +237,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10Aug2025 02:28:43.538] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:easy_mob_farm:entities/iceandfire/lightning_dragon
+[10Aug2025 20:33:28.182] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:easy_mob_farm:entities/iceandfire/lightning_dragon
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'iceandfire:dragonbone'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -289,195 +289,193 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10Aug2025 02:28:44.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[10Aug2025 02:28:44.459] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1679 advancements
-[10Aug2025 02:28:44.463] [main/INFO] [Easy Mob Farm/]: [Mob Capture Card Resource Manager] Loading definitions ... from easy_mob_farm/mob_capture_card
-[10Aug2025 02:28:44.479] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:lightning_dragon definition MobCaptureCardDefinition[entity=iceandfire:lightning_dragon, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/lightning_dragon, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=true, variants={}, colors={}]. Entity type iceandfire:lightning_dragon not found.
-[10Aug2025 02:28:44.479] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.481] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:cockatrice definition MobCaptureCardDefinition[entity=iceandfire:cockatrice, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:cockatrice not found.
-[10Aug2025 02:28:44.482] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.483] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:cyclops definition MobCaptureCardDefinition[entity=iceandfire:cyclops, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:cyclops not found.
-[10Aug2025 02:28:44.484] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.484] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:hippogryph definition MobCaptureCardDefinition[entity=iceandfire:hippogryph, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:hippogryph not found.
-[10Aug2025 02:28:44.485] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.485] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:gorgon definition MobCaptureCardDefinition[entity=iceandfire:gorgon, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:gorgon not found.
-[10Aug2025 02:28:44.486] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.486] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:fire_dragon definition MobCaptureCardDefinition[entity=iceandfire:fire_dragon, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/fire_dragon, rarity=EPIC, scale=3.5, requiresKilledByPlayer=true, requiresAnimationTick=true, variants={}, colors={}]. Entity type iceandfire:fire_dragon not found.
-[10Aug2025 02:28:44.486] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.486] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:ice_dragon definition MobCaptureCardDefinition[entity=iceandfire:ice_dragon, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/ice_dragon, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=true, variants={}, colors={}]. Entity type iceandfire:ice_dragon not found.
-[10Aug2025 02:28:44.486] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.486] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:deathworm definition MobCaptureCardDefinition[entity=iceandfire:deathworm, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:deathworm not found.
-[10Aug2025 02:28:44.487] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.487] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:mymex definition MobCaptureCardDefinition[entity=iceandfire:mymex, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:mymex not found.
-[10Aug2025 02:28:44.489] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.489] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:siren definition MobCaptureCardDefinition[entity=iceandfire:siren, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/siren, rarity=RARE, scale=2.1, requiresKilledByPlayer=false, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:siren not found.
-[10Aug2025 02:28:44.490] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.490] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:dread_lich definition MobCaptureCardDefinition[entity=iceandfire:dread_lich, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_epic, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:dread_lich not found.
-[10Aug2025 02:28:44.491] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.491] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:sea_serpent definition MobCaptureCardDefinition[entity=iceandfire:sea_serpent, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:sea_serpent not found.
-[10Aug2025 02:28:44.492] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.493] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:hydra definition MobCaptureCardDefinition[entity=iceandfire:hydra, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_epic, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:hydra not found.
-[10Aug2025 02:28:44.493] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.493] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:pixie definition MobCaptureCardDefinition[entity=iceandfire:pixie, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:pixie not found.
-[10Aug2025 02:28:44.495] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.495] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping minecraft:zombified_villager definition MobCaptureCardDefinition[entity=minecraft:zombified_villager, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=false, requiresAnimationTick=false, variants={}, colors={}]. Entity type minecraft:zombified_villager not found.
-[10Aug2025 02:28:44.496] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.497] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:ghost definition MobCaptureCardDefinition[entity=iceandfire:ghost, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:ghost not found.
-[10Aug2025 02:28:44.497] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.498] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:troll definition MobCaptureCardDefinition[entity=iceandfire:troll, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:troll not found.
-[10Aug2025 02:28:44.498] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.498] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:amphithere definition MobCaptureCardDefinition[entity=iceandfire:amphithere, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:amphithere not found.
-[10Aug2025 02:28:44.499] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.500] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:stymphalian_bird definition MobCaptureCardDefinition[entity=iceandfire:stymphalian_bird, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:stymphalian_bird not found.
-[10Aug2025 02:28:44.500] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.501] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:hippocampus definition MobCaptureCardDefinition[entity=iceandfire:hippocampus, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:hippocampus not found.
-[10Aug2025 02:28:44.502] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
-[10Aug2025 02:28:44.531] [main/ERROR] [bettervillage/]: More Villagers compatibility is not enabled for Better Village and More Villagers is present in your mod list.
+[10Aug2025 20:33:28.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[10Aug2025 20:33:29.222] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1679 advancements
+[10Aug2025 20:33:29.227] [main/INFO] [Easy Mob Farm/]: [Mob Capture Card Resource Manager] Loading definitions ... from easy_mob_farm/mob_capture_card
+[10Aug2025 20:33:29.250] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:lightning_dragon definition MobCaptureCardDefinition[entity=iceandfire:lightning_dragon, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/lightning_dragon, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=true, variants={}, colors={}]. Entity type iceandfire:lightning_dragon not found.
+[10Aug2025 20:33:29.251] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.252] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:cockatrice definition MobCaptureCardDefinition[entity=iceandfire:cockatrice, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:cockatrice not found.
+[10Aug2025 20:33:29.253] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.254] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:cyclops definition MobCaptureCardDefinition[entity=iceandfire:cyclops, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:cyclops not found.
+[10Aug2025 20:33:29.255] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.255] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:hippogryph definition MobCaptureCardDefinition[entity=iceandfire:hippogryph, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:hippogryph not found.
+[10Aug2025 20:33:29.256] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.256] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:gorgon definition MobCaptureCardDefinition[entity=iceandfire:gorgon, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:gorgon not found.
+[10Aug2025 20:33:29.257] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.257] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:fire_dragon definition MobCaptureCardDefinition[entity=iceandfire:fire_dragon, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/fire_dragon, rarity=EPIC, scale=3.5, requiresKilledByPlayer=true, requiresAnimationTick=true, variants={}, colors={}]. Entity type iceandfire:fire_dragon not found.
+[10Aug2025 20:33:29.258] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.259] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:ice_dragon definition MobCaptureCardDefinition[entity=iceandfire:ice_dragon, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/ice_dragon, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=true, variants={}, colors={}]. Entity type iceandfire:ice_dragon not found.
+[10Aug2025 20:33:29.259] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.260] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:deathworm definition MobCaptureCardDefinition[entity=iceandfire:deathworm, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:deathworm not found.
+[10Aug2025 20:33:29.260] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.262] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:mymex definition MobCaptureCardDefinition[entity=iceandfire:mymex, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:mymex not found.
+[10Aug2025 20:33:29.262] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.263] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:siren definition MobCaptureCardDefinition[entity=iceandfire:siren, entityType=null, model=iceandfire:item/easy_mob_farm/mob_capture_card/siren, rarity=RARE, scale=2.1, requiresKilledByPlayer=false, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:siren not found.
+[10Aug2025 20:33:29.264] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.265] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:dread_lich definition MobCaptureCardDefinition[entity=iceandfire:dread_lich, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_epic, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:dread_lich not found.
+[10Aug2025 20:33:29.265] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.266] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:sea_serpent definition MobCaptureCardDefinition[entity=iceandfire:sea_serpent, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:sea_serpent not found.
+[10Aug2025 20:33:29.266] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.267] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:hydra definition MobCaptureCardDefinition[entity=iceandfire:hydra, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_epic, rarity=EPIC, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:hydra not found.
+[10Aug2025 20:33:29.267] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.268] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:pixie definition MobCaptureCardDefinition[entity=iceandfire:pixie, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:pixie not found.
+[10Aug2025 20:33:29.268] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.269] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping minecraft:zombified_villager definition MobCaptureCardDefinition[entity=minecraft:zombified_villager, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=false, requiresAnimationTick=false, variants={}, colors={}]. Entity type minecraft:zombified_villager not found.
+[10Aug2025 20:33:29.269] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.270] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:ghost definition MobCaptureCardDefinition[entity=iceandfire:ghost, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:ghost not found.
+[10Aug2025 20:33:29.271] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.271] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:troll definition MobCaptureCardDefinition[entity=iceandfire:troll, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:troll not found.
+[10Aug2025 20:33:29.273] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.274] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:amphithere definition MobCaptureCardDefinition[entity=iceandfire:amphithere, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:amphithere not found.
+[10Aug2025 20:33:29.274] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.275] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:stymphalian_bird definition MobCaptureCardDefinition[entity=iceandfire:stymphalian_bird, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_rare, rarity=RARE, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:stymphalian_bird not found.
+[10Aug2025 20:33:29.275] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.275] [main/WARN] [Easy Mob Farm/]: [Mob Capture Card Definition Manager] Skipping iceandfire:hippocampus definition MobCaptureCardDefinition[entity=iceandfire:hippocampus, entityType=null, model=easy_mob_farm:item/mob_capture_card/default_uncommon, rarity=UNCOMMON, scale=1.0, requiresKilledByPlayer=true, requiresAnimationTick=false, variants={}, colors={}]. Entity type iceandfire:hippocampus not found.
+[10Aug2025 20:33:29.276] [main/WARN] [Easy Mob Farm/]: This is expected for custom and mod entities which are not loaded.
+[10Aug2025 20:33:29.301] [main/ERROR] [bettervillage/]: More Villagers compatibility is not enabled for Better Village and More Villagers is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and More Villagers.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[10Aug2025 02:28:44.583] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[10Aug2025 02:28:44.585] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
-[10Aug2025 02:28:44.589] [main/INFO] [REI/]: [REI] Plugins (2):
-[10Aug2025 02:28:44.590] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[10Aug2025 02:28:44.590] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[10Aug2025 02:28:44.590] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[10Aug2025 02:28:44.649] [main/INFO] [REI/]: [REI] ****************************************
-[10Aug2025 02:28:44.650] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
-[10Aug2025 02:28:44.653] [main/INFO] [REI/]: [REI] Plugins (2):
-[10Aug2025 02:28:44.654] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[10Aug2025 02:28:44.656] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[10Aug2025 02:28:44.657] [main/INFO] [REI/]: [REI] ****************************************
-[10Aug2025 02:28:44.672] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 5.109 ms, totaling 94.74 ms.
-[10Aug2025 02:28:44.682] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 4.774 ms, totaling 22.50 ms.
-[10Aug2025 02:28:44.697] [main/INFO] [REI/]: [REI] ----------------------------------------
-[10Aug2025 02:28:44.698] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
-[10Aug2025 02:28:44.698] [main/INFO] [REI/]: [REI] Plugins (2):
-[10Aug2025 02:28:44.700] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[10Aug2025 02:28:44.701] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[10Aug2025 02:28:44.701] [main/INFO] [REI/]: [REI] ----------------------------------------
-[10Aug2025 02:28:44.748] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[10Aug2025 02:28:44.749] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
-[10Aug2025 02:28:44.750] [main/INFO] [REI/]: [REI] Plugins (2):
-[10Aug2025 02:28:44.750] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[10Aug2025 02:28:44.751] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[10Aug2025 02:28:44.752] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[10Aug2025 02:28:44.766] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 1.640 ms, totaling 55.94 ms.
-[10Aug2025 02:28:44.771] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 2.041 ms, totaling 22.13 ms.
-[10Aug2025 02:28:46.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10Aug2025 02:28:46.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Aug2025 02:28:46.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Aug2025 02:28:46.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Aug2025 02:28:46.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Aug2025 02:28:46.756] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Aug2025 02:28:47.016] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Aug2025 02:28:47.017] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Aug2025 02:28:47.019] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Aug2025 02:28:47.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Aug2025 02:28:47.114] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[10Aug2025 02:28:47.118] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[10Aug2025 02:28:47.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Aug2025 02:28:55.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Aug2025 02:29:05.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.796] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.802] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.836] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.844] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.846] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.868] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.874] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.880] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.892] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.893] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.896] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.898] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:05.899] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:06.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:06.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:07.300] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:07.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:08.345] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Aug2025 02:29:09.096] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13797 ms
-[10Aug2025 02:29:09.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.997s)! For help, type "help"
-[10Aug2025 02:29:09.196] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Aug2025 02:29:09.208] [Server thread/INFO] [Easy Mob Farm/]: [Config] Registering deferred common configuration ...
-[10Aug2025 02:29:09.243] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:witch with a chance of 1 of 15 for 1 redstone.
-[10Aug2025 02:29:09.247] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:sheep with a chance of 1 of 5 for 1 white_wool.
-[10Aug2025 02:29:09.248] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::1::minecraft:zombie with a chance of 1 of 15 for 1 rotten_flesh.
-[10Aug2025 02:29:09.250] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:squid with a chance of 1 of 10 for 1 ink_sac.
-[10Aug2025 02:29:09.253] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:blaze with a chance of 1 of 20 for 1 blaze_rod.
-[10Aug2025 02:29:09.253] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::0::minecraft:iron_golem with a chance of 1 of 20 for 1 iron_ingot.
-[10Aug2025 02:29:09.254] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:cod with a chance of 1 of 10 for 1 cod.
-[10Aug2025 02:29:09.254] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:parrot with a chance of 1 of 15 for 1 feather.
-[10Aug2025 02:29:09.257] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:witch with a chance of 1 of 10 for 1 redstone.
-[10Aug2025 02:29:09.259] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:squid with a chance of 1 of 15 for 1 ink_sac.
-[10Aug2025 02:29:09.259] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:panda with a chance of 1 of 15 for 1 bamboo.
-[10Aug2025 02:29:09.261] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:frog with a chance of 1 of 20 for 1 slime_ball.
-[10Aug2025 02:29:09.263] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:sheep with a chance of 1 of 10 for 1 white_wool.
-[10Aug2025 02:29:09.267] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:chicken with a chance of 1 of 5 for 1 egg.
-[10Aug2025 02:29:09.269] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:sheep with a chance of 1 of 15 for 1 white_wool.
-[10Aug2025 02:29:09.270] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::1::minecraft:iron_golem with a chance of 1 of 15 for 1 iron_ingot.
-[10Aug2025 02:29:09.271] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:frog with a chance of 1 of 5 for 1 slime_ball.
-[10Aug2025 02:29:09.272] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:blaze with a chance of 1 of 15 for 1 blaze_rod.
-[10Aug2025 02:29:09.272] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::2::minecraft:bee with a chance of 1 of 10 for 1 honeycomb.
-[10Aug2025 02:29:09.273] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:husk with a chance of 1 of 15 for 1 sand.
-[10Aug2025 02:29:09.277] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:panda with a chance of 1 of 20 for 1 bamboo.
-[10Aug2025 02:29:09.278] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:magma_cube with a chance of 1 of 20 for 1 magma_cream.
-[10Aug2025 02:29:09.279] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:parrot with a chance of 1 of 10 for 1 feather.
-[10Aug2025 02:29:09.280] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:frog with a chance of 1 of 10 for 1 slime_ball.
-[10Aug2025 02:29:09.280] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:chicken with a chance of 1 of 20 for 1 egg.
-[10Aug2025 02:29:09.281] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:blaze with a chance of 1 of 5 for 1 blaze_rod.
-[10Aug2025 02:29:09.282] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:chicken with a chance of 1 of 15 for 1 egg.
-[10Aug2025 02:29:09.283] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:squid with a chance of 1 of 20 for 1 ink_sac.
-[10Aug2025 02:29:09.283] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:cow with a chance of 1 of 15 for 1 leather.
-[10Aug2025 02:29:09.286] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:cod with a chance of 1 of 20 for 1 cod.
-[10Aug2025 02:29:09.286] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:husk with a chance of 1 of 20 for 1 sand.
-[10Aug2025 02:29:09.287] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::0::minecraft:zombie with a chance of 1 of 20 for 1 rotten_flesh.
-[10Aug2025 02:29:09.287] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:husk with a chance of 1 of 5 for 1 sand.
-[10Aug2025 02:29:09.288] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:rabbit with a chance of 1 of 10 for 1 rabbit_hide.
-[10Aug2025 02:29:09.288] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:cow with a chance of 1 of 10 for 1 leather.
-[10Aug2025 02:29:09.289] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:panda with a chance of 1 of 5 for 1 bamboo.
-[10Aug2025 02:29:09.290] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:squid with a chance of 1 of 5 for 1 ink_sac.
-[10Aug2025 02:29:09.291] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:parrot with a chance of 1 of 5 for 1 feather.
-[10Aug2025 02:29:09.292] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:rabbit with a chance of 1 of 5 for 1 rabbit_hide.
-[10Aug2025 02:29:09.294] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:cod with a chance of 1 of 15 for 1 cod.
-[10Aug2025 02:29:09.295] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:cod with a chance of 1 of 5 for 1 cod.
-[10Aug2025 02:29:09.296] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:cow with a chance of 1 of 5 for 1 leather.
-[10Aug2025 02:29:09.299] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:magma_cube with a chance of 1 of 5 for 1 magma_cream.
-[10Aug2025 02:29:09.300] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:husk with a chance of 1 of 10 for 1 sand.
-[10Aug2025 02:29:09.301] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::3::minecraft:bee with a chance of 1 of 5 for 1 honeycomb.
-[10Aug2025 02:29:09.303] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:slime with a chance of 1 of 10 for 1 slime_ball.
-[10Aug2025 02:29:09.304] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:frog with a chance of 1 of 15 for 1 slime_ball.
-[10Aug2025 02:29:09.306] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::1::minecraft:bee with a chance of 1 of 15 for 1 honeycomb.
-[10Aug2025 02:29:09.306] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:slime with a chance of 1 of 20 for 1 slime_ball.
-[10Aug2025 02:29:09.307] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:rabbit with a chance of 1 of 15 for 1 rabbit_hide.
-[10Aug2025 02:29:09.307] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:cow with a chance of 1 of 20 for 1 leather.
-[10Aug2025 02:29:09.308] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:chicken with a chance of 1 of 10 for 1 egg.
-[10Aug2025 02:29:09.310] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:slime with a chance of 1 of 5 for 1 slime_ball.
-[10Aug2025 02:29:09.312] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::0::minecraft:bee with a chance of 1 of 20 for 1 honeycomb.
-[10Aug2025 02:29:09.314] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:panda with a chance of 1 of 10 for 1 bamboo.
-[10Aug2025 02:29:09.316] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:witch with a chance of 1 of 5 for 1 redstone.
-[10Aug2025 02:29:09.318] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:sheep with a chance of 1 of 20 for 1 white_wool.
-[10Aug2025 02:29:09.319] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:blaze with a chance of 1 of 10 for 1 blaze_rod.
-[10Aug2025 02:29:09.320] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:magma_cube with a chance of 1 of 15 for 1 magma_cream.
-[10Aug2025 02:29:09.321] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::2::minecraft:iron_golem with a chance of 1 of 10 for 1 iron_ingot.
-[10Aug2025 02:29:09.322] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::3::minecraft:zombie with a chance of 1 of 5 for 1 rotten_flesh.
-[10Aug2025 02:29:09.323] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:rabbit with a chance of 1 of 20 for 1 rabbit_hide.
-[10Aug2025 02:29:09.324] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:witch with a chance of 1 of 20 for 1 redstone.
-[10Aug2025 02:29:09.325] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::3::minecraft:iron_golem with a chance of 1 of 5 for 1 iron_ingot.
-[10Aug2025 02:29:09.327] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::2::minecraft:zombie with a chance of 1 of 10 for 1 rotten_flesh.
-[10Aug2025 02:29:09.329] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:magma_cube with a chance of 1 of 10 for 1 magma_cream.
-[10Aug2025 02:29:09.331] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:parrot with a chance of 1 of 20 for 1 feather.
-[10Aug2025 02:29:09.331] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:slime with a chance of 1 of 15 for 1 slime_ball.
-[10Aug2025 02:29:09.332] [Server thread/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
+[10Aug2025 20:33:29.344] [main/INFO] [REI/]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[10Aug2025 20:33:29.345] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[10Aug2025 20:33:29.348] [main/INFO] [REI/]: [REI] Plugins (2):
+[10Aug2025 20:33:29.348] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[10Aug2025 20:33:29.349] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[10Aug2025 20:33:29.349] [main/INFO] [REI/]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[10Aug2025 20:33:29.391] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[10Aug2025 20:33:29.391] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
+[10Aug2025 20:33:29.393] [main/INFO] [REI/]: [REI] Plugins (2):
+[10Aug2025 20:33:29.395] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[10Aug2025 20:33:29.396] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[10Aug2025 20:33:29.398] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[10Aug2025 20:33:29.415] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 5.697 ms, totaling 68.32 ms.
+[10Aug2025 20:33:29.420] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 1.973 ms, totaling 19.56 ms.
+[10Aug2025 20:33:29.434] [main/INFO] [REI/]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[10Aug2025 20:33:29.435] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
+[10Aug2025 20:33:29.437] [main/INFO] [REI/]: [REI] Plugins (2):
+[10Aug2025 20:33:29.438] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[10Aug2025 20:33:29.438] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[10Aug2025 20:33:29.441] [main/INFO] [REI/]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[10Aug2025 20:33:29.485] [main/INFO] [REI/]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[10Aug2025 20:33:29.486] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
+[10Aug2025 20:33:29.487] [main/INFO] [REI/]: [REI] Plugins (2):
+[10Aug2025 20:33:29.487] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[10Aug2025 20:33:29.488] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[10Aug2025 20:33:29.489] [main/INFO] [REI/]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[10Aug2025 20:33:29.505] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 3.785 ms, totaling 56.24 ms.
+[10Aug2025 20:33:29.510] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 1.983 ms, totaling 19.18 ms.
+[10Aug2025 20:33:31.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Aug2025 20:33:31.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Aug2025 20:33:31.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Aug2025 20:33:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Aug2025 20:33:31.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Aug2025 20:33:31.595] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Aug2025 20:33:31.742] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Aug2025 20:33:31.743] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Aug2025 20:33:31.743] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Aug2025 20:33:31.743] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Aug2025 20:33:31.775] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[10Aug2025 20:33:31.777] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[10Aug2025 20:33:32.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Aug2025 20:33:39.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Aug2025 20:33:50.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.138] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.139] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.140] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.142] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.152] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.159] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.167] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.190] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:50.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:51.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:51.709] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 20:33:52.252] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12676 ms
+[10Aug2025 20:33:52.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.493s)! For help, type "help"
+[10Aug2025 20:33:52.327] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Aug2025 20:33:52.331] [Server thread/INFO] [Easy Mob Farm/]: [Config] Registering deferred common configuration ...
+[10Aug2025 20:33:52.350] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:witch with a chance of 1 of 15 for 1 redstone.
+[10Aug2025 20:33:52.352] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:sheep with a chance of 1 of 5 for 1 white_wool.
+[10Aug2025 20:33:52.353] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::1::minecraft:zombie with a chance of 1 of 15 for 1 rotten_flesh.
+[10Aug2025 20:33:52.354] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:squid with a chance of 1 of 10 for 1 ink_sac.
+[10Aug2025 20:33:52.356] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:blaze with a chance of 1 of 20 for 1 blaze_rod.
+[10Aug2025 20:33:52.356] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::0::minecraft:iron_golem with a chance of 1 of 20 for 1 iron_ingot.
+[10Aug2025 20:33:52.356] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:cod with a chance of 1 of 10 for 1 cod.
+[10Aug2025 20:33:52.356] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:parrot with a chance of 1 of 15 for 1 feather.
+[10Aug2025 20:33:52.357] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:witch with a chance of 1 of 10 for 1 redstone.
+[10Aug2025 20:33:52.358] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:squid with a chance of 1 of 15 for 1 ink_sac.
+[10Aug2025 20:33:52.358] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:panda with a chance of 1 of 15 for 1 bamboo.
+[10Aug2025 20:33:52.359] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:frog with a chance of 1 of 20 for 1 slime_ball.
+[10Aug2025 20:33:52.359] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:sheep with a chance of 1 of 10 for 1 white_wool.
+[10Aug2025 20:33:52.359] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:chicken with a chance of 1 of 5 for 1 egg.
+[10Aug2025 20:33:52.359] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:sheep with a chance of 1 of 15 for 1 white_wool.
+[10Aug2025 20:33:52.360] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::1::minecraft:iron_golem with a chance of 1 of 15 for 1 iron_ingot.
+[10Aug2025 20:33:52.362] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:frog with a chance of 1 of 5 for 1 slime_ball.
+[10Aug2025 20:33:52.362] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:blaze with a chance of 1 of 15 for 1 blaze_rod.
+[10Aug2025 20:33:52.362] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::2::minecraft:bee with a chance of 1 of 10 for 1 honeycomb.
+[10Aug2025 20:33:52.362] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:husk with a chance of 1 of 15 for 1 sand.
+[10Aug2025 20:33:52.363] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:panda with a chance of 1 of 20 for 1 bamboo.
+[10Aug2025 20:33:52.363] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:magma_cube with a chance of 1 of 20 for 1 magma_cream.
+[10Aug2025 20:33:52.363] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:parrot with a chance of 1 of 10 for 1 feather.
+[10Aug2025 20:33:52.363] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:frog with a chance of 1 of 10 for 1 slime_ball.
+[10Aug2025 20:33:52.367] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:chicken with a chance of 1 of 20 for 1 egg.
+[10Aug2025 20:33:52.367] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:blaze with a chance of 1 of 5 for 1 blaze_rod.
+[10Aug2025 20:33:52.367] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:chicken with a chance of 1 of 15 for 1 egg.
+[10Aug2025 20:33:52.368] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:squid with a chance of 1 of 20 for 1 ink_sac.
+[10Aug2025 20:33:52.368] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:cow with a chance of 1 of 15 for 1 leather.
+[10Aug2025 20:33:52.370] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:cod with a chance of 1 of 20 for 1 cod.
+[10Aug2025 20:33:52.370] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:husk with a chance of 1 of 20 for 1 sand.
+[10Aug2025 20:33:52.370] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::0::minecraft:zombie with a chance of 1 of 20 for 1 rotten_flesh.
+[10Aug2025 20:33:52.371] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:husk with a chance of 1 of 5 for 1 sand.
+[10Aug2025 20:33:52.371] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:rabbit with a chance of 1 of 10 for 1 rabbit_hide.
+[10Aug2025 20:33:52.371] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:cow with a chance of 1 of 10 for 1 leather.
+[10Aug2025 20:33:52.372] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:panda with a chance of 1 of 5 for 1 bamboo.
+[10Aug2025 20:33:52.373] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:squid with a chance of 1 of 5 for 1 ink_sac.
+[10Aug2025 20:33:52.374] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:parrot with a chance of 1 of 5 for 1 feather.
+[10Aug2025 20:33:52.374] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:rabbit with a chance of 1 of 5 for 1 rabbit_hide.
+[10Aug2025 20:33:52.374] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:cod with a chance of 1 of 15 for 1 cod.
+[10Aug2025 20:33:52.374] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:cod with a chance of 1 of 5 for 1 cod.
+[10Aug2025 20:33:52.375] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:cow with a chance of 1 of 5 for 1 leather.
+[10Aug2025 20:33:52.376] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:magma_cube with a chance of 1 of 5 for 1 magma_cream.
+[10Aug2025 20:33:52.376] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:husk with a chance of 1 of 10 for 1 sand.
+[10Aug2025 20:33:52.377] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::3::minecraft:bee with a chance of 1 of 5 for 1 honeycomb.
+[10Aug2025 20:33:52.379] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:slime with a chance of 1 of 10 for 1 slime_ball.
+[10Aug2025 20:33:52.379] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:frog with a chance of 1 of 15 for 1 slime_ball.
+[10Aug2025 20:33:52.379] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::1::minecraft:bee with a chance of 1 of 15 for 1 honeycomb.
+[10Aug2025 20:33:52.380] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:slime with a chance of 1 of 20 for 1 slime_ball.
+[10Aug2025 20:33:52.380] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:rabbit with a chance of 1 of 15 for 1 rabbit_hide.
+[10Aug2025 20:33:52.380] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:cow with a chance of 1 of 20 for 1 leather.
+[10Aug2025 20:33:52.381] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:chicken with a chance of 1 of 10 for 1 egg.
+[10Aug2025 20:33:52.383] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:slime with a chance of 1 of 5 for 1 slime_ball.
+[10Aug2025 20:33:52.383] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::0::minecraft:bee with a chance of 1 of 20 for 1 honeycomb.
+[10Aug2025 20:33:52.383] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:panda with a chance of 1 of 10 for 1 bamboo.
+[10Aug2025 20:33:52.384] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:witch with a chance of 1 of 5 for 1 redstone.
+[10Aug2025 20:33:52.384] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:sheep with a chance of 1 of 20 for 1 white_wool.
+[10Aug2025 20:33:52.384] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:blaze with a chance of 1 of 10 for 1 blaze_rod.
+[10Aug2025 20:33:52.384] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:magma_cube with a chance of 1 of 15 for 1 magma_cream.
+[10Aug2025 20:33:52.387] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::2::minecraft:iron_golem with a chance of 1 of 10 for 1 iron_ingot.
+[10Aug2025 20:33:52.387] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::3::minecraft:zombie with a chance of 1 of 5 for 1 rotten_flesh.
+[10Aug2025 20:33:52.388] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:rabbit with a chance of 1 of 20 for 1 rabbit_hide.
+[10Aug2025 20:33:52.388] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:witch with a chance of 1 of 20 for 1 redstone.
+[10Aug2025 20:33:52.388] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::3::minecraft:iron_golem with a chance of 1 of 5 for 1 iron_ingot.
+[10Aug2025 20:33:52.388] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::2::minecraft:zombie with a chance of 1 of 10 for 1 rotten_flesh.
+[10Aug2025 20:33:52.389] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:magma_cube with a chance of 1 of 10 for 1 magma_cream.
+[10Aug2025 20:33:52.389] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:parrot with a chance of 1 of 20 for 1 feather.
+[10Aug2025 20:33:52.392] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:slime with a chance of 1 of 15 for 1 slime_ball.
+[10Aug2025 20:33:52.392] [Server thread/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
 
  This configuration file allows you to define the bonus drops for the Mob Farms.
 
@@ -493,76 +491,8 @@ Example:
 To disable a bonus drop for a default definition, set the amount to 0.
 
  is up to date: {swamp_farm::1::minecraft:witch=minecraft:redstone::1::15, animal_plains_farm::3::minecraft:sheep=minecraft:white_wool::1::5, monster_plains_cave_farm::1::minecraft:zombie=minecraft:rotten_flesh::1::15, ocean_farm::2::minecraft:squid=minecraft:ink_sac::1::10, nether_fortress_farm::0::minecraft:blaze=minecraft:blaze_rod::1::20, iron_golem_farm::0::minecraft:iron_golem=minecraft:iron_ingot::1::20, ocean_farm::2::minecraft:cod=minecraft:cod::1::10, jungle_farm::1::minecraft:parrot=minecraft:feather::1::15, swamp_farm::2::minecraft:witch=minecraft:redstone::1::10, ocean_farm::1::minecraft:squid=minecraft:ink_sac::1::15, jungle_farm::1::minecraft:panda=minecraft:bamboo::1::15, swamp_farm::0::minecraft:frog=minecraft:slime_ball::1::20, animal_plains_farm::2::minecraft:sheep=minecraft:white_wool::1::10, animal_plains_farm::3::minecraft:chicken=minecraft:egg::1::5, animal_plains_farm::1::minecraft:sheep=minecraft:white_wool::1::15, iron_golem_farm::1::minecraft:iron_golem=minecraft:iron_ingot::1::15, swamp_farm::3::minecraft:frog=minecraft:slime_ball::1::5, nether_fortress_farm::1::minecraft:blaze=minecraft:blaze_rod::1::15, bee_hive_farm::2::minecraft:bee=minecraft:honeycomb::1::10, desert_farm::1::minecraft:husk=minecraft:sand::1::15, jungle_farm::0::minecraft:panda=minecraft:bamboo::1::20, nether_fortress_farm::0::minecraft:magma_cube=minecraft:magma_cream::1::20, jungle_farm::2::minecraft:parrot=minecraft:feather::1::10, swamp_farm::2::minecraft:frog=minecraft:slime_ball::1::10, animal_plains_farm::0::minecraft:chicken=minecraft:egg::1::20, nether_fortress_farm::3::minecraft:blaze=minecraft:blaze_rod::1::5, animal_plains_farm::1::minecraft:chicken=minecraft:egg::1::15, ocean_farm::0::minecraft:squid=minecraft:ink_sac::1::20, animal_plains_farm::1::minecraft:cow=minecraft:leather::1::15, ocean_farm::0::minecraft:cod=minecraft:cod::1::20, desert_farm::0::minecraft:husk=minecraft:sand::1::20, monster_plains_cave_farm::0::minecraft:zombie=minecraft:rotten_flesh::1::20, desert_farm::3::minecraft:husk=minecraft:sand::1::5, desert_farm::2::minecraft:rabbit=minecraft:rabbit_hide::1::10, animal_plains_farm::2::minecraft:cow=minecraft:leather::1::10, jungle_farm::3::minecraft:panda=minecraft:bamboo::1::5, ocean_farm::3::minecraft:squid=minecraft:ink_sac::1::5, jungle_farm::3::minecraft:parrot=minecraft:feather::1::5, desert_farm::3::minecraft:rabbit=minecraft:rabbit_hide::1::5, ocean_farm::1::minecraft:cod=minecraft:cod::1::15, ocean_farm::3::minecraft:cod=minecraft:cod::1::5, animal_plains_farm::3::minecraft:cow=minecraft:leather::1::5, nether_fortress_farm::3::minecraft:magma_cube=minecraft:magma_cream::1::5, desert_farm::2::minecraft:husk=minecraft:sand::1::10, bee_hive_farm::3::minecraft:bee=minecraft:honeycomb::1::5, swamp_farm::2::minecraft:slime=minecraft:slime_ball::1::10, swamp_farm::1::minecraft:frog=minecraft:slime_ball::1::15, bee_hive_farm::1::minecraft:bee=minecraft:honeycomb::1::15, swamp_farm::0::minecraft:slime=minecraft:slime_ball::1::20, desert_farm::1::minecraft:rabbit=minecraft:rabbit_hide::1::15, animal_plains_farm::0::minecraft:cow=minecraft:leather::1::20, animal_plains_farm::2::minecraft:chicken=minecraft:egg::1::10, swamp_farm::3::minecraft:slime=minecraft:slime_ball::1::5, bee_hive_farm::0::minecraft:bee=minecraft:honeycomb::1::20, jungle_farm::2::minecraft:panda=minecraft:bamboo::1::10, swamp_farm::3::minecraft:witch=minecraft:redstone::1::5, animal_plains_farm::0::minecraft:sheep=minecraft:white_wool::1::20, nether_fortress_farm::2::minecraft:blaze=minecraft:blaze_rod::1::10, nether_fortress_farm::1::minecraft:magma_cube=minecraft:magma_cream::1::15, iron_golem_farm::2::minecraft:iron_golem=minecraft:iron_ingot::1::10, monster_plains_cave_farm::3::minecraft:zombie=minecraft:rotten_flesh::1::5, desert_farm::0::minecraft:rabbit=minecraft:rabbit_hide::1::20, swamp_farm::0::minecraft:witch=minecraft:redstone::1::20, iron_golem_farm::3::minecraft:iron_golem=minecraft:iron_ingot::1::5, monster_plains_cave_farm::2::minecraft:zombie=minecraft:rotten_flesh::1::10, nether_fortress_farm::2::minecraft:magma_cube=minecraft:magma_cream::1::10, jungle_farm::0::minecraft:parrot=minecraft:feather::1::20, swamp_farm::1::minecraft:slime=minecraft:slime_ball::1::15}
-[10Aug2025 02:29:09.338] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
-[10Aug2025 02:29:30.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelP25[/127.137.168.234:50265] logged in with entity id 248 at (-1420.5853394682492, 77.0, -3549.889534379096)
-[10Aug2025 02:29:31.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 joined the game
-[10Aug2025 02:29:34.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
-[10Aug2025 02:37:33.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexisQS[/127.240.16.218:33619] logged in with entity id 2171 at (-1420.0180203499156, 77.0, -3545.20949692278)
-[10Aug2025 02:37:33.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS joined the game
-[10Aug2025 02:37:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> zzz
-[10Aug2025 02:38:50.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzzz
-[10Aug2025 02:38:55.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/177, l='ServerLevel[world]', x=6.39, y=69.94, z=104.84] died, message: 'Florist hit the ground too hard'
-[10Aug2025 02:39:06.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> mira la casa
-[10Aug2025 02:39:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> ta poxi
-[10Aug2025 02:41:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> y que mas muchacho
-[10Aug2025 02:41:15.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> que dice pozo
-[10Aug2025 02:41:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> pos nada
-[10Aug2025 02:41:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> ayudame a consegir madera de jumgla
-[10Aug2025 02:42:16.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> oe cierto, en la pagina oficial dice el rasperry 5 de 8 de almacenamiento 16 GB de ram cuesta 120
-[10Aug2025 02:42:32.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> ok, ya te busco madera
-[10Aug2025 02:42:37.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> 120 tan poquito
-[10Aug2025 02:42:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> no hay uno mas caro jajajaj
-[10Aug2025 02:43:17.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> XD
-[10Aug2025 02:46:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> ya despues que haya plata compramos el rasberry
-[10Aug2025 02:48:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> poxi
-[10Aug2025 02:49:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzz
-[10Aug2025 02:50:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzz
-[10Aug2025 02:50:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzz
-[10Aug2025 02:51:20.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was doomed to fall by AngelP25
-[10Aug2025 02:51:20.629] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
-[10Aug2025 02:52:41.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 fell from a high place
-[10Aug2025 02:52:41.415] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
-[10Aug2025 02:52:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> XD
-[10Aug2025 02:53:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> como
-[10Aug2025 03:08:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> el peruano
-[10Aug2025 03:08:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> nos da una de polvora por una de esmeralda
-[10Aug2025 03:09:01.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [First Trade]
-[10Aug2025 03:09:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [What a Deal!]
-[10Aug2025 03:09:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> hay esmeraldas?
-[10Aug2025 03:09:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> habia
-[10Aug2025 03:09:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> XD
-[10Aug2025 03:14:38.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS was slain by AngelP25
-[10Aug2025 03:14:38.878] [Server thread/INFO] [tombstone/]: The player AlexisQS has successfully been saved
-[10Aug2025 03:16:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 fell from a high place
-[10Aug2025 03:16:49.712] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
-[10Aug2025 03:17:22.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 was slain by AlexisQS
-[10Aug2025 03:17:22.400] [Server thread/INFO] [tombstone/]: The player AngelP25 has successfully been saved
-[10Aug2025 03:20:55.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [First Trade]
-[10Aug2025 03:20:55.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [What a Deal!]
-[10Aug2025 03:24:33.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> puedes hacer otro para aldeano
-[10Aug2025 03:25:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> falto el tradeo infinito jajaj
-[10Aug2025 03:26:17.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> zzzz
-[10Aug2025 03:26:31.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> ya
-[10Aug2025 03:26:53.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Ace Trainer]
-[10Aug2025 03:27:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> como se hacian los de comida bro
-[10Aug2025 03:27:40.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> compostadora o ahumador
-[10Aug2025 03:27:44.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> yo mato al peruano si jode jajaja
-[10Aug2025 03:27:50.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> XD
-[10Aug2025 03:27:59.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> cmpostadora
-[10Aug2025 03:28:14.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> simon
-[10Aug2025 03:30:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> a como se crean mas aldeanos ?
-[10Aug2025 03:31:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> voy a conseguir carbon bro
-[10Aug2025 03:31:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> poxi
-[10Aug2025 03:36:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS has made the advancement [Ace Trainer]
-[10Aug2025 03:41:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> ya me voy a desconectar bro
-[10Aug2025 03:41:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> pilas
-[10Aug2025 03:43:03.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/17667, l='ServerLevel[world]', x=-1192.30, y=59.00, z=-4165.31] died, message: 'Hunter was slain by Zombie'
-[10Aug2025 03:43:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngelP25> ok bro
-[10Aug2025 03:43:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> como llegaste aqui?
-[10Aug2025 03:43:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexisQS> pilas
-[10Aug2025 03:43:54.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexisQS lost connection: Disconnected
-[10Aug2025 03:43:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexisQS left the game
-[10Aug2025 03:46:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Creative Mode]
-[10Aug2025 03:47:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Survival Mode]
-[10Aug2025 03:50:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Cover Me with Diamonds]
-[10Aug2025 03:54:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Ice Bucket Challenge]
+[10Aug2025 20:33:52.394] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
+[10Aug2025 20:34:13.811] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c2179d[id=<null>,name=AngelP25,properties={},legacy=false] (/127.137.168.234:47685) lost connection: Disconnected
+[10Aug2025 20:34:25.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelP25[/127.137.168.234:42911] logged in with entity id 247 at (-1417.5, 77.0, -3541.5)
+[10Aug2025 20:34:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 joined the game
+[10Aug2025 20:34:30.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4872ms or 97 ticks behind
