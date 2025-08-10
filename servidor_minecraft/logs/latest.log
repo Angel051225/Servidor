@@ -498,3 +498,8 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [10Aug2025 20:34:30.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4872ms or 97 ticks behind
 [10Aug2025 21:13:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [We Need to Go Deeper]
 [10Aug2025 21:13:05.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[10Aug2025 21:17:36.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [Those Were the Days]
+[10Aug2025 21:18:15.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelP25 has made the advancement [War Pigs]
+[10Aug2025 21:19:11.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[10Aug2025 21:22:42.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Spectator Mode]
+[10Aug2025 21:23:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AngelP25: Set own game mode to Survival Mode]
